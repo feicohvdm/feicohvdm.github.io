@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+<div class="uk-container uk-container-small">
+    {% if page.layout == 'about' and site.author.image %}
+        <div class="uk-text-center">
+            <img class="uk-border-circle avatar" src="{% if site.author.image contains 'http' %}{{ site.author.image }}{% else %}{{ site.post_assets | absolute_url }}{{ site.author.image }}{% endif %}">
+        </div>
+    {% endif %}
+    <article class="uk-article">
+        {{ content }}
+    </article>
+    <div class="social-networks">
+        <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+            {% if site.author.twitter %}
+            <div class="uk-first-column">
+                <a href="{{ site.author.twitter }}" data-uk-icon="ratio: 1.4; icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.facebook %}
+            <div>
+                <a href="{{ site.author.facebook }}" data-uk-icon="ratio: 1.4; icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.flickr %}
+            <div>
+                <a href="{{ site.author.flickr }}" data-uk-icon="ratio: 1.4; icon: flickr" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.dribbble %}
+            <div>
+                <a href="{{ site.author.dribbble }}" data-uk-icon="ratio: 1.4; icon: dribbble" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.instagram %}
+            <div>
+                <a href="{{ site.author.instagram }}" data-uk-icon="ratio: 1.4; icon: instagram" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.googleplus %}
+            <div>
+                <a href="{{ site.author.googleplus }}" data-uk-icon="ratio: 1.4; icon: google-plus" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.linkedin %}
+            <div>
+                <a href="{{ site.author.linkedin }}" data-uk-icon="ratio: 1.4; icon: linkedin" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.pinterest %}
+            <div>
+                <a href="{{ site.author.pinterest }}" data-uk-icon="ratio: 1.4; icon: pinterest" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.vimeo %}
+            <div>
+                <a href="{{ site.author.vimeo }}" data-uk-icon="ratio: 1.4; icon: vimeo" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.youtube %}
+            <div>
+                <a href="{{ site.author.youtube }}" data-uk-icon="ratio: 1.4; icon: youtube" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.github %}
+            <div>
+                <a href="{{ site.author.github }}" data-uk-icon="ratio: 1.4; icon: github" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.email %}
+            <div>
+                <a href="{{ site.author.email }}" data-uk-icon="ratio: 1.4; icon: mail" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+            {% if site.author.website %}
+            <div>
+                <a href="{{ site.author.website }}" data-uk-icon="ratio: 1.4; icon: link" class="uk-icon-link uk-icon" target="_blank"></a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>

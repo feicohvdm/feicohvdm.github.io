@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="uk-container uk-container-small">
+
+    {% for category in site.categories %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        <div  class="category uk-position-relative">
+            <a class="anchor uk-position-absolute" id="{{ category_name | slugize }}"></a>
+            <h2 class="uk-margin-remove-top">{{ category_name }}</h2>
+
+            {% for post in site.categories[category_name] %}
+                <h4 class="uk-margin"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+            {% endfor %}
+        </div>
+    {% endfor %}
+
+</div>

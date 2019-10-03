@@ -1,0 +1,18 @@
+<div class="related">
+    <div class="uk-child-width-expand@s uk-grid-large" data-uk-grid>
+        <div>
+            {% if page.previous.url %}
+                <h3>{{page.previous.title}}</h3>
+                <div class="uk-visible@s lh-l font-smoothing">{{ page.previous.excerpt }}</div>
+                <div><a class="uk-text-uppercase hvr-back" href="{{page.previous.url}}">&larr; Previous</a></div>
+            {% endif %}
+        </div>
+        <div>
+            {% if page.next.url %}
+                <h3>{{page.next.title}}</h3>
+                <div class="uk-visible@s lh-l  font-smoothing">{{ page.next.excerpt }}</div>
+                <div class="uk-text-right"><a class="uk-text-uppercase hvr-forward" href="{{page.next.url}}">Next &rarr;</a></div>
+            {% endif %}
+        </div>
+    </div>
+</div>

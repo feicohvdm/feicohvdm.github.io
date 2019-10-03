@@ -1,0 +1,46 @@
+{% if site.footer.image %}
+    {% assign image = site.footer.image %}
+{% endif %}
+
+{% if site.footer.align %}
+    {% assign align = site.footer.align %}
+{% else %}
+    {% assign align = "center" %}
+{% endif %}
+
+{% if site.footer.text == "dark" %}
+    {% assign text = "light" %}
+{% else %}
+    {% assign text = "dark" %}
+{% endif %}
+
+<footer id="footer" class="uk-background-{{ align }}-center uk-background-cover uk-{{ text }}" style="background-image: url({% if image contains 'http' %}{{ image }}{% else %}{{ site.post_assets | absolute_url }}{{ image }}{% endif %});">
+    <div class="uk-section uk-overlay-footer">
+        <div class="uk-container">
+
+            <div class="uk-flex uk-grid uk-light uk-margin-xxlarge-top" data-uk-grid>
+                <div class="uk-width-expand@m">
+                    <ul class="uk-subnav uk-flex-center uk-flex-right@m">
+                        {% for link in site.data.navigation_footer %}
+                            {% if link.url contains 'http' %}
+                                {% assign domain = '' %}
+                            {% else %}
+                                {% assign domain = relative_url %}
+                            {% endif %}
+                            {% if link.url == page.url %}
+                                {% assign current = ' class="uk-active"' %}
+                            {% else %}
+                                {% assign current = null %}
+                            {% endif %}
+                            {% if link.title %}
+                                <li{{ current }}><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="uk-flex-first@m uk-width-auto@m uk-text-center uk-text-left@m uk-text-meta uk-text-muted uk-link-muted uk-light- copyright">{{ site.footer.copyright }}</div>
+
+            </div>
+        </div>
+    </div>
+</footer>

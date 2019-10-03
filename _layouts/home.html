@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="uk-container uk-container-small">
+
+    {% for post in paginator.posts %}
+    <article class="uk-article">
+        <h2 class="uk-article-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+        <div class="uk-article-excerpt">{{ post.excerpt }}</div>
+    </article>
+    {% endfor %}
+
+    {% include paginate.html %}
+
+</div>

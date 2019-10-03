@@ -1,0 +1,96 @@
+{% if page.header.image %}
+    {% assign image = page.header.image %}
+{% else %}
+    {% assign image = site.header.image %}
+{% endif %}
+
+{% if page.header.align %}
+    {% assign align = page.header.align %}
+{% else %}
+    {% assign align = site.header.align %}
+{% endif %}
+
+{% if page.header.text %}
+    {% assign text = page.header.text %}
+{% else %}
+    {% if site.header.text %}
+        {% assign text = site.header.text %}
+    {% else %}
+        {% assign text = "light" %}
+    {% endif %}
+{% endif %}
+
+<header class="uk-background-{{ align }}-center uk-background-cover" style="background-image: url({% if image contains 'http' %}{{ image }}{% else %}{{ site.post_assets | absolute_url }}{{ image }}{% endif %});">
+    <div class="uk-overlay-header uk-{{ text }}">
+        <nav class="uk-navbar-container uk-navbar-transparent" data-uk-navbar>
+            <div class="uk-navbar-center">
+                <div class="uk-navbar-center-left">
+                    <div>
+                        <ul class="uk-navbar-nav uk-visible@m">
+                            {% for link in site.data.navigation_header.left %}
+                                {% if link.url contains 'http' %}
+                                    {% assign domain = '' %}
+                                {% else %}
+                                    {% assign domain = relative_url %}
+                                {% endif %}
+                                {% if link.url == page.url %}
+                                    {% assign current = ' class="uk-active"' %}
+                                {% else %}
+                                    {% assign current = null %}
+                                {% endif %}
+                                {% if link.title %}
+                                    <li{{ current }}><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                <a class="uk-navbar-item uk-logo" href="{{ "/" | relative_url }}">{% if site.logo %}<img src="{{ site.logo }}">{% else %}{{ site.logo_text | escape }}{% endif %}</a>
+                <div class="uk-navbar-center-right">
+                    <div>
+                        <ul class="uk-navbar-nav uk-visible@m">
+                            {% for link in site.data.navigation_header.right %}
+                                {% if link.url contains 'http' %}
+                                    {% assign domain = '' %}
+                                {% else %}
+                                    {% assign domain = relative_url %}
+                                {% endif %}
+                                {% if link.url == page.url %}
+                                    {% assign current = ' class="uk-active"' %}
+                                {% else %}
+                                    {% assign current = null %}
+                                {% endif %}
+                                {% if link.title %}
+                                    <li{{ current }}><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div class="uk-section section-hero">
+            <div class="uk-container uk-text-center">
+                <h1 class="uk-heading-hero">{{ page.title | escape }}</h1>
+                {% if page.subtitle %}<p class="subtitle uk-text-uppercase">{{ page.subtitle | escape }}</p>{% endif %}
+                <div class="uk-article-meta font-smoothing">
+                    {% if page.id and site.author.name %}
+                        by {{ site.author.name }}
+                    {% endif %}
+                    {% if page.id and page.categories %}in
+                        {% for category in page.categories %}
+                            <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                            {% unless forloop.last %}{% endunless %}
+                        {% endfor %}
+                    {% endif %}
+                    {% if page.layout == 'about' and site.author.bio %}
+                        <div class="uk-container uk-container-small uk-margin-medium-top">
+                            {{ site.author.bio }}
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        <a class="uk-navbar-toggle uk-hidden@m uk-position-top-right" href="#offcanvas" data-uk-navbar-toggle-icon data-uk-toggle></a>
+    </div>
+</header>

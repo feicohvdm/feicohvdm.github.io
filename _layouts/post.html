@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="uk-container uk-container-small">
+    <article class="uk-article">
+        <div class="share-side uk-visible@m" uk-scrollspy="cls: uk-animation-fade; target: .share; repeat: true">
+            <div class="share" uk-sticky="offset: 150; bottom: .uk-article-content;">{% include share.html %}</div>
+        </div>
+        <div class="uk-article-content{% if site.post.dropcap == true %} dropcap{% endif %}">
+            {{ content }}
+            <div class="share uk-hidden@m uk-text-center uk-margin-large-top">{% include share.html %}</div>
+        </div>
+        {% if site.disqus.shortname %} {% include disqus_comments.html %} {% endif %}
+    </article>
+</div>
+
+<div class="uk-container">
+    {% include related.html %}
+</div>
