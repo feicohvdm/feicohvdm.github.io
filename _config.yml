@@ -1,0 +1,96 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site title and description
+title:              Momoir - Jekyll Template for Story Tellers
+description:        Hi, I'm Memoir, an awesome Jekyll bloging theme.
+
+# Site subpath, e.g. /blog
+baseurl:            ""
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
+
+# Site base hostname & protocol, e.g. http://example.com
+url:                "https://memoir.jekyll.plus"
+
+# Site logo, image or text
+logo:               # e.g. logo.png, upload logo image file to /assets/img/ folder
+logo_text:          Memoir      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+
+# Author settings, displayed on about page
+author:
+    name:           John Smith
+    bio:            Hi, I'm John, a web designer, human and the author of this blog.
+    email:          john@somewebsite.com
+    website:        http://somewebsite.com
+    facebook:       https://www.facebook.com/
+    flickr:         https://flickr.com/
+    dribbble:       https://dribbble.com/
+    github:         https://github.com/
+    googleplus:     https://plus.google.com/
+    instagram:      https://www.instagram.com/
+    linkedin:       https://www.linkedin.com/feed/
+    pinterest:      https://www.pinterest.com/
+    twitter:        https://twitter.com/
+    vimeo:          https://vimeo.com/
+    youtube:        https://www.youtube.com/
+
+# Social share buttons
+twitter_username:   ivanchromjak
+github_username:    ivanchromjak
+
+# Site background color
+template:           light       # light or dark
+
+# Default header image settings
+header:
+    image:          header.jpg  # upload your header image to /assets/posts/ folder
+    align:          center      # top, center or bottom
+    text:           light        # light or dark
+
+# Default footer image settings
+footer:
+    image:          footer.jpg  # upload your header image to /assets/posts/ folder
+    align:          center      #top, center or bottom
+    text:           light       # light or dark
+    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+
+# Post settings
+post:
+    dropcap: true
+
+# Disqus comments shortname, requires Disqus account https://disqus.com/
+disqus:
+    shortname:      # 7865
+
+# Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:
+
+# Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
+google_maps_api_key: AIzaSyAJTeOhKq4HhEsEbUze__fAPDQswd0gUSU
+
+# Number of posts displayed on blog page
+paginate:           5
+
+# Path to post content assets directory i.e post images, pdfs etc
+post_assets:        /assets/posts/
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+sass:
+  style:            compressed
