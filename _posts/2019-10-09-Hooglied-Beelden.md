@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interdum analunu santerim.
+Beelden die geïnspireerd zijn vanuit het bijbelse Boek “Hooglied”. Acht hoofdstukken over pure liefde. In beelden probeerde ik deze liefde te vangen.  
 
 {% include image.html img="https://source.unsplash.com/MCNycq-fvUs" alt="Alt for image" caption="Image caption" %}
 
