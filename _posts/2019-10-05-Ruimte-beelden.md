@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-Dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interdum .
+Een beeld kan zich in de ruimte uitspreken. Hij gebruikt de ruimte om een gebaar, een verhaal zichtbaar te maken. Hij kan zich gemakkelijker in z’n omgeving uitspreken als hij geen herkenbare vorm (zoals vogel, mens, bloem) uitdrukt.
 
 {% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
 
