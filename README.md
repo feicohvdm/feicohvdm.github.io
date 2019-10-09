@@ -53,7 +53,7 @@ permalink:          /:title/
 
 # Site logo, image or text
 logo:               # e.g. logo.png, upload logo image file to /assets/img/ folder
-logo_text:          Memoir      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+logo_text:          Beelden      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Author settings, displayed on about page
 author:
