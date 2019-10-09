@@ -1,14 +1,14 @@
 ---
 layout: post
-subtitle: lost in paradise
-categories: [Travel, Photography]
+subtitle:
+categories:
 header:
     image: https://source.unsplash.com/sRQ0MJsWXvE.jpg
     align:
     text: light
 ---
 
-Het Oud Testamentische boek “Hooglied” heeft mij getroffen. Acht hoofdstukken wordt hier beeldend over pure liefde gesproken. In beelden brons probeerde ik deze liefde te vangen.  
+Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische beeldende taal wordt pure liefde verwoord. In beelden van brons probeerde ik deze liefde te vangen.  
 
 {% include image.html img="https://source.unsplash.com/MCNycq-fvUs" alt="Alt for image" caption="Image caption" %}
 
