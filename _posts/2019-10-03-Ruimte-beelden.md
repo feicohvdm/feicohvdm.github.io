@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-Een beeld kan zich in de ruimte uitspreken. Hij gebruikt de ruimte om een gebaar, een verhaal zichtbaar te maken. Hij kan zich gemakkelijker in z’n omgeving uitspreken als hij geen herkenbare vorm (zoals vogel, mens, bloem) uitdrukt.
+Een beeld kan zich in de ruimte uitspreken. Hij gebruikt de ruimte om een gebaar, een verhaal zichtbaar te maken. 
 
 {% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
 
