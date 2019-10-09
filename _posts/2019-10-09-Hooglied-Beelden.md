@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische beeldende taal wordt pure liefde verwoord. In beelden van brons probeerde ik deze liefde te vangen.  
+Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische beeldende taal wordt hier pure liefde verwoord. In beelden van brons probeerde ik deze liefde te vangen.  
 
 {% include image.html img="https://source.unsplash.com/MCNycq-fvUs" alt="Alt for image" caption="Image caption" %}
 
