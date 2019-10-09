@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-Voor een beeldhouwer is het een ware kunst om zijn beelden levenskracht mee te geven. Vorm is per definitie vast en gestold. Om beelden te maken die de suggestie wekken levend te zijn, zal de beeldhouwer zijn gecreëerde vorm met leven moeten vullen.
+Voor een beeldhouwer is het een ware kunst om zijn beelden levenskracht mee te geven. Vorm is per definitie vast en gestold. Om beelden te maken die de suggestie wekken levend te zijn, zal de beeldhouwer zijn gecreëerde vorm met leven moeten vullen
 
 {% include image.html img="https://source.unsplash.com/SdmM_xh3bcU" alt="Alt for image" caption="Image caption" %}
 
