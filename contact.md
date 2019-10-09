@@ -7,7 +7,7 @@ header:
     image: https://source.unsplash.com/nvzvOPQW0gc.jpg
     text: dark
 formspree:
-    email: my_name@gmail.com
+    email: feicohajonides@hotmail.com
     redirect: /thanks/
 ---
 
