@@ -3,13 +3,13 @@ left:
     - title: Home
       url: /
 
-    - title: About
-      url: /about/
+    - title: Visie
+      url: /visie/
 
 # Navbar right menu navigation links
 right:
-    - title: Categories
-      url: /categories/
+    - title: Lessen
+      url: /lessen/
 
     - title: Contact
       url: /contact/

@@ -9,10 +9,10 @@ layout: default
     </article>
 
     {% if page.formspree.email %}
-    <h3 class="uk-margin-large-top">Contact Form</h3>
+    <h3 class="uk-margin-large-top">Contact</h3>
     <form class="uk-form-stacked uk-margin-medium-top" method="POST" action="https://formspree.io/{{ page.formspree.email }}" accept-charset="UTF-8">
         <div class="uk-margin-medium-bottom">
-            <label class="uk-form-label uk-margin-small-bottom" for="form-stacked-text">Name</label>
+            <label class="uk-form-label uk-margin-small-bottom" for="form-stacked-text">Naam</label>
             <div class="uk-form-controls">
                 <input class="uk-input uk-form-large uk-border-rounded" name="name" type="text" required>
             </div>
@@ -24,13 +24,13 @@ layout: default
             </div>
         </div>
         <div class="uk-margin-medium-bottom">
-            <label class="uk-form-label uk-margin-small-bottom" for="form-stacked-text">Subject</label>
+            <label class="uk-form-label uk-margin-small-bottom" for="form-stacked-text">Onderwerp</label>
             <div class="uk-form-controls">
                 <input class="uk-input uk-form-large uk-border-rounded" name="_subject" type="text">
             </div>
         </div>
         <div class="uk-margin-medium-bottom">
-            <label class="uk-form-label uk-margin-small-bottom" for="form-stacked-text">Message</label>
+            <label class="uk-form-label uk-margin-small-bottom" for="form-stacked-text">boodschap</label>
             <div class="uk-form-controls">
                 <textarea class="uk-textarea uk-form-large" name="message" rows="5" minlength="10" required></textarea>
             </div>
@@ -40,7 +40,7 @@ layout: default
             <input type="hidden" name="_next" value="{{ page.formspree.redirect | absolute_url }}">
             {% endif %}
             <input type="text" name="_gotcha" style="display:none">
-            <input class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-border-rounded" type="submit" value="Send">
+            <input class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-border-rounded" type="submit" value="Stuur">
         </div>
     </form>
     {% endif %}
