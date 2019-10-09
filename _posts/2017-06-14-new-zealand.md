@@ -16,6 +16,8 @@ Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla 
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
+![](assets/2017-06-14-new-zealand-7a04868b.jpg)
+
 ## Image Lightbox
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
 {% include image.html img="https://source.unsplash.com/PNZ0fIYYFx0.jpg" style="wide" lightbox="true" alt="Alt for image" caption="Wide image in lightbox" %}
