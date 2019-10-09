@@ -10,8 +10,7 @@ formspree:
     email: feicohajonides@hotmail.com
     redirect: /thanks/
 ---
-
-#### Antwoord
+#####
 
 Voor vragen, opmerkingen, aanmeldingen kunt u contact opnemen met:
 
