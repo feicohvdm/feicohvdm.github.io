@@ -11,10 +11,11 @@ formspree:
     redirect: /thanks/
 ---
 
-#### Morbi varius in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+#### Antwoord formulier
 
 Voor vragen, opmerkingen, aanmeldingen kunt u contact opnemen met:
 
+Feico Hajonides
 Windheuvelstraat 3
 6971 JV Brummen
 Holland
