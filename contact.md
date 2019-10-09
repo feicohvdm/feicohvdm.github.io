@@ -10,12 +10,11 @@ formspree:
     email: feicohajonides@hotmail.com
     redirect: /thanks/
 ---
-#####
 
 Voor vragen, opmerkingen, aanmeldingen kunt u contact opnemen met:
 
-Feico Hajonides
-Windheuvelstraat 3
+Feico Hajonides,
+Windheuvelstraat 3,
 6971 JV Brummen
 Holland
 
