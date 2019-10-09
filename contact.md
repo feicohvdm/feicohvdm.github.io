@@ -13,12 +13,13 @@ formspree:
 
 #### Morbi varius in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+Voor vragen, opmerkingen, aanmeldingen kunt u contact opnemen met:
 
-Tel: 023-453-6578
+Windheuvelstraat 3
+6971 JV Brummen
+Holland
 
-7997 E 153st Street
-Gotham
-GH, 86105 USA
+Tel: 06 30953313/0575 543090
+
 
 {% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}
