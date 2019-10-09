@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: Contact
-subtitle: Get in touch
+subtitle:
 permalink: /contact/
 header:
     image: https://source.unsplash.com/nvzvOPQW0gc.jpg
@@ -11,7 +11,6 @@ formspree:
     redirect: /thanks/
 ---
 
-#### Antwoord formulier
 #### Antwoord
 
 Voor vragen, opmerkingen, aanmeldingen kunt u contact opnemen met:
