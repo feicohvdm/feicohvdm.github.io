@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: Spring Fashion
+subtitle:
 categories:
 header:
     image: https://source.unsplash.com/sRQ0MJsWXvE.jpg
