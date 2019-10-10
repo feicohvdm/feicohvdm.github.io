@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Feico Hajonides
-subtitle: writer / photographer
+subtitle: beeldhouwer
 permalink: /about/
 header:
     image: https://source.unsplash.com/DMVD9RkZIwQ.jpg

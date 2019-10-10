@@ -57,9 +57,9 @@ logo_text:          Beelden      # if the above "logo:" image variable  is not s
 
 # Author settings, displayed on about page
 author:
-    name:           John Smith
-    bio:            Hi, I'm John, a web designer, father, human and the author of this blog.
-    email:          john@somewebsite.com
+    name:           Feico Hajonides
+    bio:            Hi
+    email:          Feicohajonides@hotmail.com
     website:        http://somewebsite.com
     facebook:       https://www.facebook.com/
     flickr:         https://flickr.com/
@@ -136,7 +136,7 @@ Submit the form and confirm your email address at [FormSpree](https://formspree.
 
 ```yaml
 formspree:
-    email: my_name@gmail.com
+    email: feicohajonides@hotmail.com
     redirect: /thanks/
 ```
 
