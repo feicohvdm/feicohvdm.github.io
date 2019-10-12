@@ -1,7 +1,6 @@
 ---
 layout: post
-subtitle:
-categories:
+
 header:
     image: https://source.unsplash.com/sRQ0MJsWXvE.jpg
     align:
