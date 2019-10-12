@@ -3,8 +3,8 @@ left:
     - title: Home
       url: /
 
-    - title: Visie
-      url: /visie/
+    - title: about
+      url: /about/
 
 # Navbar right menu navigation links
 right:
