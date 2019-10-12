@@ -57,8 +57,8 @@ logo_text:          Beelden      # if the above "logo:" image variable  is not s
 
 # Author settings, displayed on about page
 author:
-    name:           Feico Hajonides
-    bio:            Hi
+    name:           
+    bio:            
     email:          Feicohajonides@hotmail.com
     website:        http://somewebsite.com
     facebook:       https://www.facebook.com/
