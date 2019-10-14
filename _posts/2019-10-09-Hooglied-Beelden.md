@@ -11,7 +11,7 @@ Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische bee
 
 {% include image.html img="https://source.unsplash.com/MCNycq-fvUs" alt="Alt for image" caption="Image caption" %}
 
-{% include image.html img="http://www.feicohajonides.nl/fotos/thumbs/klein_IMG_2390.jpg" alt="Alt for image" caption="Image caption" %}
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/9261700.jpg?342" alt="Alt for image" caption="Image caption" %}
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
