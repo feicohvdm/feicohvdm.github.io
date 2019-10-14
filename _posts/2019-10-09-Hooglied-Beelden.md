@@ -32,6 +32,7 @@ Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/door-liefde-gedragen_orig.jpg" style="wide" lightbox="true" alt="Alt for image" caption="Door Liefde gedragen" %}
 
 Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/de-schoonheid-van-onze-ziel_orig.jpg" style="wide" lightbox="true" alt="Alt for image" caption="De schoonheid van onze ziel" %}
 
 ## Image Slideshow
 Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
