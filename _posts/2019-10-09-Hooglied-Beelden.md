@@ -2,7 +2,7 @@
 layout: post
 
 header:
-    image: http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/door-liefde-gedragen_orig.jpg
+    image: http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg
     align:
     text: light
 ---
