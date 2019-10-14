@@ -9,9 +9,19 @@ header:
 
 Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische beeldende taal wordt hier pure liefde verwoord. In beelden van brons probeerde ik deze liefde te vangen.  
 
-{% include image.html img="https://source.unsplash.com/MCNycq-fvUs" alt="Alt for image" caption="Image caption" %}
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/dynamiek-van-liefde_orig.jpg" alt="Alt for image" caption="Dynamiek van Liefde" %}
 
-{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/welkom-1_orig.jpg" alt="Alt for image" caption="Image caption" %}
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/de-schoonheid-van-onze-ziel_orig.jpg" alt="Alt for image" caption="De schoonheid van onze ziel" %}
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/samen-n_orig.jpg" alt="Alt for image" caption="Samen een" %}
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" caption="Verbonden" %}
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/mooi_orig.jpg" alt="Alt for image" caption="Mooi" %}
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/door-liefde-gedragen_orig.jpg" alt="Alt for image" caption="Door liefde gedragen" %}
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/levenskracht_orig.jpg" alt="Alt for image" caption="Levenskracht" %}
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
