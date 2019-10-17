@@ -1,16 +1,25 @@
 ---
 layout: post
 subtitle:
-categories: 
+categories:
 header:
-    image: https://source.unsplash.com/4nulm-JUYFo.jpg
+    image: http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/maria_orig.jpg.jpg
     align:
     text: light
 ---
 
 Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
 
-{% include image.html img="https://source.unsplash.com/e5pqjD85NRg.jpg" alt="Alt for image" caption="Girl on a rock" %}
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/welkom_orig.jpg" alt="Welkom" caption="Girl on a rock" %}
+
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/ontvangend-geven_orig.jpg" alt="Alt for image" caption="Ontvangend geven" %}
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/nike_orig.jpg" alt="Alt for image" caption="Nike" %}
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/broederschap_orig.jpg" alt="Alt for image" caption="Broederschap" %}
+
+{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verwanten_orig.jpg" alt="Alt for image" caption="Verwanten" %}
 
 http://www.feicohajonides.nl/fotos/thumbs/klein_IMG_2390.jpg Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
