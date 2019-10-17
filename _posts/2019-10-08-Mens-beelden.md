@@ -3,7 +3,7 @@ layout: post
 subtitle:
 categories:
 header:
-    image: http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/maria_orig.jpg.jpg
+    image: http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/maria_orig.jpg
     align:
     text: light
 ---
