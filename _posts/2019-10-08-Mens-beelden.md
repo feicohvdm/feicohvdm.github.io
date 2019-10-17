@@ -31,7 +31,7 @@ Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld v
 Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
 
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+
 
 ## Image Lightbox
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
