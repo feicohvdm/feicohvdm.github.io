@@ -18,7 +18,7 @@ Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld v
 
 Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
 
-{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/nike_orig.jpg" alt="Alt for image" caption="Nike" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nike-4_orig.jpg" alt="Alt for image" caption="Nike" %}
 
 Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
 
