@@ -10,9 +10,19 @@ header:
 
 Voor een beeldhouwer is het een ware kunst om zijn beelden levenskracht mee te geven. Vorm is per definitie vast en gestold. Om beelden te maken die de suggestie wekken levend te zijn, zal de beeldhouwer zijn gecreëerde vorm met leven moeten vullen
 
-{% include image.html img="https://source.unsplash.com/SdmM_xh3bcU" alt="Alt for image" caption="Image caption" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/kiem-hout_orig.jpg" alt="Alt for image" caption="Kiem -eikenhout-" %}
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+Voor een beeldhouwer is het een ware kunst om zijn beelden levenskracht mee te geven. Vorm is per definitie vast en gestold. Om beelden te maken die de suggestie wekken levend te zijn, zal de beeldhouwer zijn gecreëerde vorm met leven moeten vullen
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/swing_orig.jpg" alt="Alt for image" caption="Swing" %}
+
+Voor een beeldhouwer is het een ware kunst om zijn beelden levenskracht mee te geven. Vorm is per definitie vast en gestold. Om beelden te maken die de suggestie wekken levend te zijn, zal de beeldhouwer zijn gecreëerde vorm met leven moeten vullen
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/bol_orig.jpg" alt="Alt for image" caption="Oerbegin" %}
+
+Voor een beeldhouwer is het een ware kunst om zijn beelden levenskracht mee te geven. Vorm is per definitie vast en gestold. Om beelden te maken die de suggestie wekken levend te zijn, zal de beeldhouwer zijn gecreëerde vorm met leven moeten vullen
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/paassteen_orig.jpg" alt="Alt for image" caption="Paassteen" %}
 
 ## Image Lightbox
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
