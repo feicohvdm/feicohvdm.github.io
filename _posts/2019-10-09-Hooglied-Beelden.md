@@ -19,9 +19,6 @@ Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische bee
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/mooi_orig.jpg" alt="Alt for image" caption="Mooi" %}
 
-{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/door-liefde-gedragen_orig.jpg" alt="Alt for image" caption="Door liefde gedragen" %}
-
-{% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/levenskracht_orig.jpg" alt="Alt for image" caption="Levenskracht" %}
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
