@@ -3,7 +3,7 @@ layout: post
 subtitle:
 categories:
 header:
-    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/bol_orig.jpg
+    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/levensboog_orig.jpg
     align:
     text: light
 ---
