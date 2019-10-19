@@ -1,9 +1,9 @@
 ---
 layout: post
-subtitle: China and nepal
-categories: [Travel, Photography]
+subtitle:
+categories:
 header:
-    image: https://source.unsplash.com/JG7KBXn-_Mc.jpg
+    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/header-levensbeelden_orig.jpg
     align:
     text: light
 ---
