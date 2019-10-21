@@ -9,12 +9,12 @@ header:
 Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
 Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/door-liefde-gedragen_orig.jpg" alt="Alt for image" caption="Geboortebeeld voor Nathan" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Geboortebeeld voor Nathan" %}
 
 Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
 Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/geboorte-beeld_orig.jpg" alt="Alt for image" caption="Geboortebeeld" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/geboortebeeld-wieb_orig.jpg" alt="Alt for image" caption="Geboortebeeld" %}
 
 Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
 Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
