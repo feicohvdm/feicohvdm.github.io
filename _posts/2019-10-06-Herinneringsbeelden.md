@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: [Travel, People, Photography]
 header:
     image: https://source.unsplash.com/OMtewunGdm4.jpg
     align:
