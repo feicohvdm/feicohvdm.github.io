@@ -9,15 +9,31 @@ header:
 Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
 Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
 
-{% include image.html img="https://source.unsplash.com/N2IJ31xZ_ks" alt="Alt for image" caption="Image caption" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/door-liefde-gedragen_orig.jpg" alt="Alt for image" caption="Geboortebeeld voor Nathan" %}
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
+Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
 
-## Image Lightbox
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
-{% include image.html img="https://source.unsplash.com/5BCJwkGfIko.jpg" style="wide" lightbox="true" alt="Alt for image" caption="Wide image in lightbox" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/geboorte-beeld_orig.jpg" alt="Alt for image" caption="Geboortebeeld" %}
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
+Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/willy_orig.jpg" alt="Alt for image" caption="herinneringsbeeld Willy" %}
+
+Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
+Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/herinneringsbeeld_orig.jpg" alt="Alt for image" caption="herinneringsbeeld" %}
+
+Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
+Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/margot_orig.jpg" alt="Alt for image" caption="herinneringsbeeld Margot" %}
+
+
+
+#
 
 ## Image Slideshow
 Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
