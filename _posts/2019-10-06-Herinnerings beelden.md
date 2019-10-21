@@ -33,8 +33,6 @@ Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een die
 
 
 
-#
-
 ## Image Slideshow
 Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
 
