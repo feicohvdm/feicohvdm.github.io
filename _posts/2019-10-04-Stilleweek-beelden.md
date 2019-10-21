@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Deze inhoud heb ik ieder jaar opnieuw gezocht en verbeeld.
+In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Deze inhoud heb ik jaren lang opnieuw gezocht en verbeeld.
 
 {% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
 
