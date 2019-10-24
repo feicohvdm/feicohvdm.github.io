@@ -1,14 +1,12 @@
 ---
 layout: post
-subtitle: Spring Fashion
-categories: [Fashion, Photography]
-header:
-    image: https://source.unsplash.com/4nulm-JUYFo.jpg
+
+header:  https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/ruimte_orig.jpg
     align:
-    text: light
+    text: dark
 ---
 
-Een beeld kan zich in de ruimte uitspreken. Hij gebruikt de ruimte om een gebaar, een verhaal zichtbaar te maken. 
+Een beeld kan zich in de ruimte uitspreken. Hij gebruikt de ruimte om een gebaar, een verhaal zichtbaar te maken.
 
 {% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
 
