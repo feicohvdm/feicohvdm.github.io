@@ -46,7 +46,7 @@ Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, te
 
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
-{% include slideshow.html gallery="slideshow-1" style="wide" %}
+{% include slideshow.html gallery="slideshow-2" style="wide" %}
 
 Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
 
