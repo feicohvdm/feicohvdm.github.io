@@ -3,9 +3,9 @@ layout: post
 
 
 header:
-    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/ruimte_orig.jpg
+    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/91-bewegingen-van-het-har-kopie_orig.jpg
     align:
-    text: dark
+    text: light
 ---
 
 Een beeld kan zich in de ruimte uitspreken. Hij gebruikt de ruimte om een gebaar, een verhaal zichtbaar te maken.
