@@ -36,7 +36,8 @@ Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld v
 
 ## Dia's mensbeelden
 
-De mens sprokkelt in z'n leven schilvers ervaringen en ontmoetingen. Samengevoegd tot een kunstzinnige eenheid die hem verder helpt.
-
+Klik hiervoor de pijltjes links en/of rechts
 
 {% include slideshow.html gallery="slideshow-2" style="wide" %}
+
+De mens sprokkelt in z'n leven schilvers ervaringen en ontmoetingen. Samengevoegd tot een kunstzinnige eenheid die hem verder helpt.
