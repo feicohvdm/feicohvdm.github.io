@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-Voor Foto's klik op de groene kopregels.
+Voor foto's klik op de groene kopregels.
 
 {% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
 
