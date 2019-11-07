@@ -28,7 +28,7 @@ Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische bee
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/mooi_orig.jpg" alt="Alt for image" caption="Mooi" %}
 
 
-## Dia's Hooglied beelden
+## Dia's hoogliedbeelden
 Klik hiervoor op het linker en/of rechter pijltje
 
 {% include slideshow.html gallery="slideshow-1" style="wide" %}
