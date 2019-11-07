@@ -18,7 +18,7 @@ Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi vari
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/broederschap_orig.jpg" alt="Alt for image" caption="opdracht voor het dorp Almen gemeente Lochem" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/afbeelding-007-kopie_orig.jpg" alt="Alt for image" caption="opdracht voor de Regenboogkerk in Oegstgeest" %}
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
 
