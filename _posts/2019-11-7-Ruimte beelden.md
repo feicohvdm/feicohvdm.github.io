@@ -3,12 +3,12 @@ layout: post
 
 
 header:
-    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/91-bewegingen-van-het-har-kopie_orig.jpg
+    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/img-kopie_orig.jpg
     align:
     text: light
 ---
 
-Voor Foto's klik op de groene kopregels. 
+Voor Foto's klik op de groene kopregels.
 
 {% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
 
