@@ -52,6 +52,8 @@ Soms kloppen levensthema’s onverwachts bij je aan. Zo stapte het Hooglied onaa
 
 Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen met Jackie Howard, kunstenares van eigentijds textiel, exposeerden we daar van mei tot september 2019.
 
-## Jackie en Feico exposeren kunst vanuit het Hooglied
+## Film bij expositie
 
+```html
 <iframe src="https://youtu.be/1X3LcUwhRTo" width="600" height="340" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
+```
