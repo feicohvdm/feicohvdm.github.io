@@ -34,9 +34,9 @@ Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld v
 
 
 
-## Dia's mensbeelden
+## Kleinere mensbeelden
 
-Klik hiervoor de pijltjes links en/of rechts
+Klik hiervoor links of rechts van de onderstaande foto.
 
 {% include slideshow.html gallery="slideshow-2" style="wide" %}
 
