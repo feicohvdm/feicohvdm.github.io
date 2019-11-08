@@ -51,3 +51,7 @@ Klik hiervoor links of rechts van de onderstaande foto
 Soms kloppen levensthema’s onverwachts bij je aan. Zo stapte het Hooglied onaangekondigd mijn leven binnen.  Het was liefde op het eerste gezicht. Wat mij in dit lied der liederen zo enorm aansprak kon ik in aanvang niet begrijpen. Maar de beelden die ik ging maken brachten mij dichterbij de essentie van dit wonderlijke bijbel boek.
 
 Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen met Jackie Howard, kunstenares van eigentijds textiel, exposeerden we daar van mei tot september 2019.
+
+## Jackie en Feico exposeren kunst vanuit het Hooglied
+
+<iframe src="https://youtu.be/1X3LcUwhRTo" width="600" height="340" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
