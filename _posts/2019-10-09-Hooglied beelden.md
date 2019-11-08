@@ -11,30 +11,47 @@ Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische bee
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/dynamiek-van-liefde_orig.jpg" alt="Alt for image" caption="Dynamiek van Liefde" %}
 
-Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische beeldende taal wordt hier pure liefde verwoord. In beelden van brons probeerde ik deze liefde te vangen.
+Je hebt mijn hart veroverd, mijn zuster, bruid,
+je hebt mijn hart veroverd met één blik van je ogen.
+
+Hooglied 4:9
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/de-schoonheid-van-onze-ziel_orig.jpg" alt="Alt for image" caption="De schoonheid van onze ziel" %}
 
-Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische beeldende taal wordt hier pure liefde verwoord. In beelden van brons probeerde ik deze liefde te vangen.
+Ik sliep, maar mijn hart was wakker.
+Hoor mijn liefste klopt aan.
+
+Hooglied 5:2
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/samen-n_orig.jpg" alt="Alt for image" caption="Samen een" %}
 
-Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische beeldende taal wordt hier pure liefde verwoord. In beelden van brons probeerde ik deze liefde te vangen.
+Laat mij kussen met de kussen van zijn mond!
+Want goed zijn je liefkozingen, meer dan wijn.
+
+Hooglied 1:2
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" caption="Verbonden" %}
 
-Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische beeldende taal wordt hier pure liefde verwoord. In beelden van brons probeerde ik deze liefde te vangen.
+Mijn liefste is van mij en ik ben van hem,
+die weidt tussen de leliën.
+
+Hooglied 2:16
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/mooi_orig.jpg" alt="Alt for image" caption="Mooi" %}
 
+Je bent mooi, mijn vriendin!
+Je bent mooi! Je ogen zijn duiven.
 
-## Dia's hoogliedbeelden
-Klik hiervoor op het linker en/of rechter pijltje
+Hooglied 1:15
+
+
+## Dia's hooglied beelden
+Klik hiervoor links of rechts van de onderstaande foto
 
 {% include slideshow.html gallery="slideshow-1" style="wide" %}
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
+> Leg mij als een zegel op je hart, als een zegel op je arm,want sterker dan de dood is de liefde  (Hooglied 8:6)
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
+Soms kloppen levensthema’s onverwachts bij je aan. Zo stapte het Hooglied onaangekondigd mijn leven binnen.  Het was liefde op het eerste gezicht. Wat mij in dit lied der liederen zo enorm aansprak kon ik in aanvang niet begrijpen. Maar de beelden die ik ging maken brachten mij dichterbij de essentie van dit wonderlijke bijbel boek.
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen met Jackie Howard, kunstenares van eigentijds textiel, exposeerden we daar van mei tot september 2019.
