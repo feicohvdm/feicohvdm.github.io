@@ -12,32 +12,32 @@ Het Oud Testamentische boek “Hooglied” heeft mij getroffen. In poetische bee
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/dynamiek-van-liefde_orig.jpg" alt="Alt for image" caption="Dynamiek van Liefde" %}
 
 Je hebt mijn hart veroverd, mijn zuster, bruid,
-je hebt mijn hart veroverd met één blik van je ogen.
-Hooglied 4:9
+je hebt mijn hart veroverd met één blik van je ogen.   
+(Hooglied 4:9)
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/de-schoonheid-van-onze-ziel_orig.jpg" alt="Alt for image" caption="De schoonheid van onze ziel" %}
 
 Ik sliep, maar mijn hart was wakker.
-Hoor mijn liefste klopt aan.
-Hooglied 5:2
+Hoor mijn liefste klopt aan.   
+(Hooglied 5:2)
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/samen-n_orig.jpg" alt="Alt for image" caption="Samen een" %}
 
 Laat mij kussen met de kussen van zijn mond!
-Want goed zijn je liefkozingen, meer dan wijn.
-Hooglied 1:2
+Want goed zijn je liefkozingen, meer dan wijn.   
+(Hooglied 1:2)
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" caption="Verbonden" %}
 
 Mijn liefste is van mij en ik ben van hem,
-die weidt tussen de leliën.
-Hooglied 2:16
+die weidt tussen de leliën.   
+(Hooglied 2:16)
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/mooi_orig.jpg" alt="Alt for image" caption="Mooi" %}
 
 Je bent mooi, mijn vriendin!
-Je bent mooi! Je ogen zijn duiven.
-Hooglied 1:15
+Je bent mooi! Je ogen zijn duiven.   
+(Hooglied 1:15)
 
 
 
