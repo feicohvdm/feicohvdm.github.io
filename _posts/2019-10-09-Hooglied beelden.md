@@ -56,5 +56,5 @@ Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen m
 ## Film over de Hooglied expositie
 
 ```html
-<iframe src="https://www.youtube.com/watch?v=1X3LcUwhRTo" width="600" height="340" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
+<iframe src="http://www.youtube.com/embed/YE7VzlLtp-4?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="600" height="340" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
 ```
