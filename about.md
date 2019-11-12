@@ -33,7 +33,7 @@ Kunstkrant
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/bronsgieten-kopie-3_orig.jpgs" alt="Alt for image" %}
 
-Opdrachten
+> Mijn aanpak van opdrachten
 
 Opdrachten voor het vervaardigen van een beeld zijn keer op keer zeer unieke processen. Ik besteed veel zorg aan het gesprek tussen mij en de opdrachtgever. Samen gaan we op weg naar een nieuw, bijzonder beeld dat past in de vraag achter de opdracht. Diverse schetsen in klei en/of boetseerwas helpt ons naar het uiteindelijke beeld. Als het even kan probeer ik het beeld te gieten in aanwezigheid van de opdrachtgever. Als dat een groep is, proberen we het zo te organiseren dat het beeld op locatie gegoten wordt in samenwerking en in aanwezigheid van alle betrokkenen.
 
