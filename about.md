@@ -16,7 +16,7 @@ In grote lijnen kan ik zeggen dat mijn beelden religieus geinspireerd zijn. Een 
 
 Momenteel werk ik vooral in brons en ijzer. Na 20 jaar bronsgieten en smeden kan ik zeggen dat ik liefde voor deze substanties ben gaan voelen. Het zijn prachtige materialen met een eigenheid dat zich leent om beeldende verhalen te vertellen. De keuze voor de juiste legering van het brons is een zoektocht van jaren geweest. In mijn eigen gieterij ben ik er via talloze proeven achter gekomen welk edelmetaal er aan brons toegevoegd moet worden om het een diepte, een zekere "inhoud" mee te geven. Het kan zijn dat het ene beeld gegoten wil worden in koper met een goudlegering, terwijl het andere juist meer in een brons-legering met ijzer en zilver tot zijn recht komt. Vroeger waren deze legerings-techieken voor het gieten essentieel. Tegenwoordig is dit zo goed als vergeten. Ik probeer deze oude technieken een nieuw en modern gezicht te geven. Dit om het gesprek tussen vorm en materie een gezond en organische eenheid te laten zijn. Een eenheid die de mens kan steunen op zijn ontwikkelingsweg naar waarheid.
 
-Een greep uit recensies:
+> Een greep uit recensies
 
 "Feico Hajonides maakt kleine en lichtvoetige bronzen, die alle verwijzen naar opstanding. Leven, dat oprijst uit de dood in een verrassend lijnenspel.
 De vlucht- en vleugelsuggesties in hun opgaande bewegingen, een bloemvorm, die tot enkele kruisende dunne boogjes is gereduceerd, een mensengestalte als een smal etherisch aan zichzelf ontstijgend silhouet.
