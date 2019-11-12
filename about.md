@@ -4,7 +4,7 @@ title: Feico Hajonides
 subtitle: beeldhouwer
 permalink: /about/
 header:
-    image: https://source.unsplash.com/DMVD9RkZIwQ.jpg
+    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/visie_orig.jpg
     text: light
 ---
 
