@@ -7,7 +7,7 @@ left:
       url: /about/
 
     - title: exposities
-      url: /405.md/
+      url: /405/
 
 # Navbar right menu navigation links
 right:
@@ -15,7 +15,7 @@ right:
       url: /lessen/
 
     - title: opleiding
-      url: www.organischebeeldhouwkunst.nl
+      url: /lessen/
 
     - title: Contact
       url: /contact/
