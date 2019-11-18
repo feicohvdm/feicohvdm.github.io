@@ -28,7 +28,7 @@ Als we een mens echt willen ontmoeten kunnen we achter zijn fysieke bestaan een 
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verwanten_orig.jpg" alt="Alt for image" caption="Verwanten dragen we om ons heen" %}
 
-Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
+Wij staan nooit alleen. We dragen onze verwanten met ons mee. Verwanten die in het leven staan en verwanten die gestorven zijn. 
 
 
 
