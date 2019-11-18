@@ -1,6 +1,6 @@
 ---
 layout: exposities
-title: exposities
+title: Exposities
 permalink: /exposities/
 header:
     image: https://source.unsplash.com/S9543y3UEgg.jpg
