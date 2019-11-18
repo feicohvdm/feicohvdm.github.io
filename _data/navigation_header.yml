@@ -6,10 +6,16 @@ left:
     - title: Visie
       url: /about/
 
+    - title: exposities
+      url: /about/
+
 # Navbar right menu navigation links
 right:
     - title: Lessen
       url: /lessen/
+
+    - title: opleiding
+      url: www.organischebeeldhouwkunst.nl
 
     - title: Contact
       url: /contact/
