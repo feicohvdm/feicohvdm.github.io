@@ -1,5 +1,5 @@
 ---
-layout: exposities
+layout: page
 title: Exposities
 permalink: /exposities/
 header:
