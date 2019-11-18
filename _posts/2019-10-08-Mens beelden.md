@@ -39,5 +39,3 @@ We staan nooit alleen. We dragen altijd onze verwanten met ons mee. Verwanten di
 Klik hiervoor links of rechts van de onderstaande foto.
 
 {% include slideshow.html gallery="slideshow-2" style="wide" %}
-
-De mens sprokkelt in z'n leven schilvers ervaringen en ontmoetingen. Samengevoegd tot een kunstzinnige eenheid die hem verder helpt.
