@@ -24,11 +24,11 @@ Als we als mens een scheppende wil in ons dragen, dan stuuwt deze scheppende wil
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/poort-van-schenken-kopie_orig.jpg" alt="Alt for image" caption="poort van ontwikkeling" %}
 
-Als we een mens echt willen ontmoeten kunnen we achter zijn fysieke bestaan een doorgang vinden. Proberen we deze poort in liefde te openen dan kunnen we het wezenlijke en duurzame van deze mens vinden.
+Als we een mens echt willen ontmoeten kunnen we achter zijn fysieke bestaan een doorgang vinden. Proberen we deze poort in liefde te openen dan kunnen we daar het wezenlijke en duurzame van deze mens vinden.
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verwanten_orig.jpg" alt="Alt for image" caption="Verwanten dragen we om ons heen" %}
 
-Wij staan nooit alleen. We dragen onze verwanten met ons mee. Verwanten die in het leven staan en verwanten die gestorven zijn.
+We staan nooit alleen. We dragen altijd onze verwanten met ons mee. Verwanten die in het leven staan en verwanten die gestorven zijn.
 
 
 
