@@ -3,7 +3,7 @@ layout: exposities
 title: Exposities
 permalink: /exposities/
 header:
-    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/img-2987_orig.jpg
+    image: https://source.unsplash.com/S9543y3UEgg.jpg
     text: dark
 ---
 
