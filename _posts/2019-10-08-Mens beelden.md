@@ -12,19 +12,19 @@ Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld v
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/welkom_orig.jpg" alt="Alt for image" caption="Welkom" %}
 
-Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
+Wat is het toch prachtig als we ten volle welkom wordt geheten door iemand. Echt welkom. Je bent welkom met het goede en minder goede in je.  
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/ontvangend-geven_orig.jpg" alt="Alt for image" caption="Ontvangend geven" %}
 
-Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
+Sterk kan een mens zijn als hij/zij in staat is om kwetsbaar te zijn.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nike-4_orig.jpg" alt="Alt for image" caption="Nike" %}
 
-Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
+Als we als mens een scheppende wil in ons dragen, dan stuuwt deze scheppende wil ons de toekomst in.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/poort-van-schenken-kopie_orig.jpg" alt="Alt for image" caption="poort van ontwikkeling" %}
 
-Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
+Als we een mens echt willen ontmoeten kunnen we achter zijn fysieke bestaan een doorgang vinden. Proberen we deze poort in liefde te openen dan kunnen we het wezenlijke en duurzame van deze mens vinden.
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verwanten_orig.jpg" alt="Alt for image" caption="Verwanten dragen we om ons heen" %}
 
