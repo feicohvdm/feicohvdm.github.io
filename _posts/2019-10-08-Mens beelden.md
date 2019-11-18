@@ -12,7 +12,7 @@ Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld v
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/welkom_orig.jpg" alt="Alt for image" caption="Welkom" %}
 
-Wat is het toch prachtig als we ten volle welkom wordt geheten door iemand. Echt welkom. Je bent welkom met het goede en minder goede in je.  
+Wat is het toch prachtig als we ten volle welkom worden geheten door iemand. Echt welkom. Je bent volledig welkom met al het goede en minder goede in je.  
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/ontvangend-geven_orig.jpg" alt="Alt for image" caption="Ontvangend geven" %}
 
@@ -28,7 +28,7 @@ Als we een mens echt willen ontmoeten kunnen we achter zijn fysieke bestaan een 
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verwanten_orig.jpg" alt="Alt for image" caption="Verwanten dragen we om ons heen" %}
 
-Wij staan nooit alleen. We dragen onze verwanten met ons mee. Verwanten die in het leven staan en verwanten die gestorven zijn. 
+Wij staan nooit alleen. We dragen onze verwanten met ons mee. Verwanten die in het leven staan en verwanten die gestorven zijn.
 
 
 
