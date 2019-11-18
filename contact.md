@@ -11,7 +11,7 @@ formspree:
     redirect: /thanks/
 ---
 
-Voor vragen, opmerkingen, aanmeldingen kunt u contact opnemen met:
+Voor vragen over mijn werk, opmerkingen, aanmeldingen voor bijeenkomsten kunt u contact opnemen met:
 
 Feico Hajonides,
 Windheuvelstraat 3,
