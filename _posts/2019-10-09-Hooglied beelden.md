@@ -46,7 +46,7 @@ Klik hiervoor links of rechts van de onderstaande foto
 
 {% include slideshow.html gallery="slideshow-1" style="wide" %}
 
-Soms kloppen levensthema’s onverwachts bij je aan. Zo stapte het Hooglied onaangekondigd mijn leven binnen.  Het was liefde op het eerste gezicht. Wat mij in dit lied der liederen zo enorm aansprak kon ik in aanvang niet begrijpen. Maar de beelden die ik ging maken brachten mij dichterbij de essentie van dit wonderlijke bijbel boek.
+Soms kloppen levensthema’s onverwachts bij je aan. Zo stapte het Oud Testamentische Hooglied onaangekondigd mijn leven binnen.  Het was liefde op het eerste gezicht. Wat mij in dit lied der liederen zo enorm aansprak kon ik in aanvang niet begrijpen. Maar de beelden die ik ging maken brachten mij dichterbij de essentie van dit wonderlijke bijbel boek.
 
 Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen met Jackie Howard, kunstenares van eigentijds textiel, exposeerden we daar van mei tot september 2019.
 
