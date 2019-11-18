@@ -46,8 +46,6 @@ Klik hiervoor links of rechts van de onderstaande foto
 
 {% include slideshow.html gallery="slideshow-1" style="wide" %}
 
-> Leg mij als een zegel op je hart, als een zegel op je arm,want sterker dan de dood is de liefde  (Hooglied 8:6)
-
 Soms kloppen levensthema’s onverwachts bij je aan. Zo stapte het Hooglied onaangekondigd mijn leven binnen.  Het was liefde op het eerste gezicht. Wat mij in dit lied der liederen zo enorm aansprak kon ik in aanvang niet begrijpen. Maar de beelden die ik ging maken brachten mij dichterbij de essentie van dit wonderlijke bijbel boek.
 
 Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen met Jackie Howard, kunstenares van eigentijds textiel, exposeerden we daar van mei tot september 2019.
