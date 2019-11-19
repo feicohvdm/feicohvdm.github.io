@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lessen en bijeenkomsten
-permalink: /404.html
+title: Opleiding
+permalink: /opleiding
 header:
     image: https://source.unsplash.com/S9543y3UEgg.jpg
     text: dark
