@@ -8,7 +8,7 @@ header:
     text: light
 ---
 
-Achter de vorm van de mens openbaart zich het mysterie van menszijn. Elk beeld van de mens laat iets van dit mysterie zien. De mens op weg in z’n ontwikkeling.
+Achter de vorm van de mens schuilt het mysterie van menszijn. Het beeld van de mens op weg in z’n ontwikkeling.
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/welkom_orig.jpg" alt="Alt for image" caption="Welkom" %}
 
