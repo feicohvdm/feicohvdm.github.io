@@ -5,7 +5,6 @@ header:
     align:
     text: light
 ---
-
 Geboorte en sterven zijn ingrijpende momenten in het leven. Voor deze momenten maak ik geregeld in opdracht een passend beeld.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Geboortebeeld voor Nathan" %}
