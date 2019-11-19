@@ -1,10 +1,10 @@
 ---
-layout: opleiding
+layout: page
 title: Opleiding
 permalink: /opleiding/
 header:
-    image: https://source.unsplash.com/S9543y3UEgg.jpg
-    text: dark
+    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/opleiding_orig.jpg
+    text: light
 ---
 
 ## Tingieten als openbaring
