@@ -1,5 +1,5 @@
 ---
-layout: opleiding
+layout: page
 title: Opleiding
 permalink: /opleiding/
 header:
