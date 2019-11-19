@@ -11,8 +11,9 @@ Van 20 juni tot 18 juli
 ## Hooglied expositie in Sijthoff Leiden
 
 Na een zeer geslaagde Hooglied expositie in Elburg exposeren Jackie Howart en ik weer samen onze Hooglied beelden en textiel.
-Ook nieuw werk zal er te zien zijn.
-U bent van harte uitgenodigd.
+Dit keer in cultuurcentrum Sijthoff in Leiden.
+Naast eerder getoond werk zal u ook nieuw werk tegenkomen.
+Van harte welkom!
 
 Cultuurcentrum Sijthof,
 Doezastraat 1b,
