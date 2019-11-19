@@ -6,8 +6,7 @@ header:
     text: light
 ---
 
-Een beeld zegt soms meer dan woorden. Het komt voor dat een kind bij zijn geboorte van z’n ouders/groot ouders een beeld mee krijgt. Een duurzame aanmoediging die het kind kan helpen.
-Een soort gelijk gebaar kan een nabestaande maken bij het overlijden van een dierbare. In het beeld blijft liefdevolle herinnering levend.
+Geboorte en sterven zijn ingrijpende momenten in het leven. Voor deze momenten maak ik geregeld in opdracht een passend beeld.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/nathan_orig.jpg" alt="Alt for image" caption="Geboortebeeld voor Nathan" %}
 
