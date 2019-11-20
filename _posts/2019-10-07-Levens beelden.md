@@ -11,7 +11,7 @@ Een diep verlangen in een beeldhouwer is om zijn beelden levenskracht mee te gev
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/kiem-hout_orig.jpg" alt="Alt for image" caption="Kiem -eikenhout-" %}
 
-Niet alleen in de plantenwereld vind je kiemen. Ook in ons menszijn leven kiemen. Bijvoorbeeld als een bepaald vermogen dat sluimert eindelijk de tijd krijgt om zich te ontplooien is dat een kiem wat bloem kan worden.
+Niet alleen in de plantenwereld vind je kiemen. Ook in ons menszijn leven kiemen. Bijvoorbeeld als een bepaald vermogen dat sluimert eindelijk de tijd krijgt om zich te ontplooien is dat een kiem die bloem kan worden.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/swing_orig.jpg" alt="Alt for image" caption="Swing" %}
 
@@ -19,7 +19,7 @@ Als we onze wilskracht kunnen bundelen en hanteren zijn we tot veel instaat.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/levenskracht-hl_orig.jpg" alt="Alt for image" caption="Levenskracht" %}
 
-Het is een feest om een plant zich te zien ontplooien. Naar onder toe zoekt de plant de verbinding met de aarde. Naar boven toe zoekt het de verbinding met de zon. Daar tussen bruist het leven. Niet alleen voor de plant geldt dit ook voor de mens.
+Het is een feest om een plant zich te zien ontplooien. Naar onder toe zoekt de plant de verbinding met de aarde. Naar boven toe zoekt het de verbinding met de zon. Daar tussen bruist het leven. 
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/paassteen_orig.jpg" alt="Alt for image" caption="Paassteen" %}
 
