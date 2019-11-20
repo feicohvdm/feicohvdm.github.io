@@ -6,7 +6,6 @@ header:
     image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/opleiding-5_orig.jpg
     text: light
 ---
-
 ## Driejarige parttime beroepsopleiding organische beeldhouwkunst
 
 In september 2020 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Een driejarige parttime opleiding waarin handvaten aangeboden worden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. Deze opleiding/scholingsweg leid je op om de beeldhouwkunst beroepsmatig te kunnen gaan uitoefenen.
@@ -51,8 +50,4 @@ Windheuvelstraat 3
 
 Informatie over de Aardewerkplaats: http://www.aardewerkplaats.nl
 
-## Inlichtingen en oriëntatie gesprek
-
-Feico Hajonides
-Telf. 0575.543090 of 0630953313
-mail: Feico@aardewerkplaats.nl
+#
