@@ -6,7 +6,7 @@ header:
     align:
     text: light
 ---
-In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Elk jaar weer probeer ik deze inhoud in beelden te vatten. 
+In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Elk jaar weer probeer ik deze inhoud opnieuw in beelden te vatten. 
 
 {% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
 
