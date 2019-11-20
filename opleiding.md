@@ -51,7 +51,7 @@ Windheuvelstraat 3
 
 Informatie over de Aardewerkplaats: http://www.aardewerkplaats.nl
 
-## Opgave/inlichtingen/oriëntatie gesprek
+## Inlichtingen en oriëntatie gesprek
 
 Feico Hajonides
 Telf. 0575.543090 of 0630953313
