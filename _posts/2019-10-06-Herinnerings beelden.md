@@ -30,4 +30,5 @@ Ter nagedachtenis aan een geliefde vriendin.
 ## Kleinere herinnerings beelden
 Klik hiervoor links of rechts van de onderstaande foto
 
+
 {% include slideshow.html gallery="slideshow-1" style="wide" %}
