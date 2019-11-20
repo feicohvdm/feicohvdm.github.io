@@ -7,7 +7,7 @@ header:
     align:
     text: light
 ---
-Voor een beeldhouwer is het een ware kunst om zijn beelden levenskracht mee te geven. De suggestie dat de vorm leeft en zich wil ontwikkelen.
+Een diep verlangen in een beeldhouwer is om zijn beelden levenskracht mee te geven. In mijn beelden probeer ik de suggestie te verbeelden dat ze leven en zich verder willen ontwikkelen.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/kiem-hout_orig.jpg" alt="Alt for image" caption="Kiem -eikenhout-" %}
 
