@@ -7,29 +7,52 @@ header:
     text: light
 ---
 
-## Tingieten als openbaring
-Van harte bent u uitgenodigd om op zondagmiddag  5 januari een bijeenkomst mee te maken rond het fenomeen tin-gieten. Al eeuwen wordt er rond de jaarwisseling op diverse plaatsen vloeibaar tin in water gegoten. Het tin stolt daarbij in de meest uiteenlopende vormen.
-Het bijzondere van dit gebruik is dat je in deze uiteenlopende vormen iets kan lezen over diegene die gegoten heeft. Het zegt mogelijk iets over dat wat hem/haar te wachten staat in het nieuwe jaar.
-In de bijeenkomst van 5 januari giet ieder een eigen tin vorm en leggen we de verschillende tin-gietsels naast elkaar. Feico Hajonides (beeldhouwer) zal een toelichting geven over hoe je naar deze tin-vormen kan kijken. Via kunstoefeningen proberen we vervolgens het verhaal achter de gietsels in samenspraak te onthullen.
+## Driejarige parttime beroepsopleiding organische beeldhouwkunst
 
-Tijd: 5 januari van 14:00 tot 16:30 uur
+In september 2020 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Een driejarige parttime opleiding waarin handvaten aangeboden worden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. Deze opleiding/scholingsweg leid je op om de beeldhouwkunst beroepsmatig te kunnen gaan uitoefenen.
+In deze opleiding hopen we een beeldhouwkunst aan te bieden die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uitelijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin het proces van vormontwikkeling in een beeld belangrijk is. Kortom een beeldhouwkunst die ons wakker maakt voor de levende waarachtigheid in en achter de zichtbare vormen.
 
-Plaats: Aardewerkplaats, Windheuvelstraat 3 te Brummen
+Essentieel in deze scholingsweg is het uitgangspunt dat ieder mens in wezen een kunstenaar is. Het is de vraag hoe ieder met deze kiem van het kunstenaarschap wil omgaan. In deze opleiding proberen we een voedingsbodem te scheppen zodat ieder op een geheel eigen manier het eigen kunstenaarschap kan ontwikkelen.
+Natuurlijk is er geen pasklaar concept hoe het kunstenaarschap eruit ziet. Dat is voor ieder mens die zich dit tot doel stelt volledig anders. Dat hangt af van de talenten en mogelijkheden die je meebrengt en in je leven al ontwikkeld hebt. Vandaar dat we in deze opleiding doorlopend de eigen unieke wilsweg van ieder als uitgangspunt nemen. In de eerste twee jaren van de opleiding staan we stil bij wat je (bewust en onbewust) al ontwikkeld hebt in de beeldhouwkunst en wat je daar vanuit verder wil vormgeven. De basis van een eigen verhouding tot de fundamenten van de Organische Beelhouwkunst wordt gelegd. In deze twee jaren wordt er een begin gemaakt met het onderzoeken van de zeven vormgevende “organen” waar vanuit de Organische beeldhouwer zijn beelden maakt. Zeven bronnen, zeven inspiraties om beelden te  maken. Door het bestuderen en ervaren van deze "zeven" kan je jezelf als beeldhouwer verruimen.
 
-Kosten : 35,- euro
+In het derde jaar staat het aangaan van een eigen project en/of opdracht met alles wat daarbij komt kijken centraal. Een project en/of opdracht waarin je jouzelf als beeldhouwer in de ruimste zin van het woord kan laten zien.
 
-Aanmelden: Feico Hajonides tel. 0630953313 of Feico@aardewerkplaats.nl  
+##Oriëntatie bijeenkomst
 
+Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
+Voor een kennismakingsgesprek kun je contact met Feico opnemen: telf. 0630953313 of Feico@aardewerkplaats.nl
 
+##Introductie dagen
 
-## Voorjaars driedaagse "Het Innerlijk beeld"
-Donderdag 19 tot en met zaterdag 21 maart 2020 wordt er in de Aardewerkplaats geboetseerd aan innerlijke beelden. Beelden die je levens “missie” verbeelden en je steun en kracht kunnen geven. Kortom ieder werkt deze drie dagen een zeer persoonlijk beeldje uit waarin iets van het eigen diepere verlangen zichtbaar wordt.
-s’Ochtends werken we aan oefeningen om het innerlijk beeld meer en meer te ontsluieren. s’Middags zetten we de ontdekkingen om in beelden van boetseerwas. Aan het eind van de driedaagse besluit je of het beeld dat je deze dagen gemaakt hebt rijp is om in brons gegoten te worden. Anders kan er thuis aan verder gewerkt worden.
-Het proces naar een bronzen beeld wordt door medewerkers van de Aardewerkplaats na de driedaagse verzorgd. Je bent van harte welkom bij het gieten van je beeld.
-In juni is er een terugkom dag om de laatste hand aan je bronzen beeld te leggen.
+Op 18 t/m 22 augustus  zijn de introductie dagen. In deze vijf dagen maak je kennis met een onderdeel van de organische beeldhouwkunst. Een prima gelegenheid om kennismaken te maken met de verschillende werkruimten, de manier van lesgeven en een thema binnen de organische beeldhouwkunst. Vragen krijgen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in jou aan? Zie je jezelf vanuit de Organische Beeldhouwkunst werkzaam zijn?
+Deze vragen worden gedurende de introductie steeds weer vanuit een ander gezichtspunt bewogen.
 
-Tijd: Donderdag 19, vrijdag 20 en zaterdag 21 maart en zaterdag 20 juni. dagelijks van 9 tot 16 uur.
+Het komt voor dat iemand zonder de introductie bijeenkomsten gevolgd te hebben toch met de opleiding mee kan. Dat zal in een kennismakingsgesprek met elkaar bekeken en besloten kunnen worden.
 
-Kosten: 450,- euro. Dit is inclusief materiaal en een eenvoudigegoed verzorgde lunch. Het omzetten in brons is ongeveer 120,- euro                  
+##Kosten
 
-Aanmelden: Feico Hajonides tel. 0630953313 of Feico@aardewerkplaats.nl
+De kosten voor de vijf introductie dagen zijn 600,- euro  (dit is inclusief materiaal en lunch)
+De kosten voor de opleiding zijn 2500,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten, koffie/thee. exclusief de kosten voor het bronsgieten en museum bezoek.)
+Als de kosten een bezwaar zijn dan kunnen we in een oriëntatie gesprek mogelijkheden bespreken (ondermeer prive en algemene fondsen) om deze opleiding voor jou mogelijk te maken.
+
+##Tijd
+
+Het eerste jaar start op 4 en 5 september.
+Het eerste én tweede opleidingsjaar bestaan samen uit 50 bijeenkomst-dagen. Het komt erop neer dat we in het eerste en tweede jaar tien keer op een vrijdag met aansluitend de zaterdag bij elkaar komen. Daarbij komt in het voorjaar een zogenaamde "werkweek" van vijf dagen.
+Voor een complete datalijst van het eerste jaar kun je contact opnemen met Feico.
+Iedere dag begint om 9:30 uur (welkom vanaf 9:00 uur) en eindigt uiterlijk om 17:00 uur.
+
+##Plaats
+
+We kunnen gebruik maken van een ruim atelier/werkplaats  en een bronsgieterij:
+Aardewerkplaats Amiel.
+Windheuvelstraat 3
+6971 JV Brummen (nabij Zutphen).
+
+Informatie over de Aardewerkplaats: http://www.aardewerkplaats.nl
+
+##Opgave/inlichtingen/oriëntatie gesprek
+
+Feico Hajonides
+Telf. 0575.543090 of 0630953313
+mail: Feico@aardewerkplaats.nl
