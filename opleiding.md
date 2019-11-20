@@ -49,5 +49,3 @@ Windheuvelstraat 3
 6971 JV Brummen (nabij Zutphen).
 
 Informatie over de Aardewerkplaats: http://www.aardewerkplaats.nl
-
-#
