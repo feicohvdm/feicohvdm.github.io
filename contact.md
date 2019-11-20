@@ -11,7 +11,7 @@ formspree:
     redirect: /thanks/
 ---
 
-Heeft u vragen over mijn werk, opmerkingen of wil u zich aanmelden voor een bijeenkomsten/cursus, dan kunt u contact opnemen met:
+Heeft u vragen over mijn beeldend werk, zomaar een opmerking of wil u zich aanmelden voor een cursus of opleiding, dan kunt u contact opnemen met:
 
 Feico Hajonides,
 Windheuvelstraat 3,
