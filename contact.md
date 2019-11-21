@@ -11,14 +11,14 @@ formspree:
     redirect: /thanks/
 ---
 
-Heeft u vragen over mijn beeldend werk, zomaar een opmerking of wil u zich aanmelden voor een cursus of opleiding, dan kunt u contact opnemen met:
+Heeft u vragen, opmerkingen en aanmeldingen kunt u contact opnemen met:
 
 Feico Hajonides,
 Windheuvelstraat 3,
 6971 JV Brummen
 Holland
 
-Tel: 06 30953313/0575 543090
+Tel: 06 30953313
 
 
 {% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}
