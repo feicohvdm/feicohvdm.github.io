@@ -11,7 +11,7 @@ formspree:
     redirect: /thanks/
 ---
 
-Heeft u vragen, opmerkingen en aanmeldingen kunt u contact opnemen met:
+Heeft u een vraag, een opmerking of wilt u zich voor een cursus aanmelden dan kunt u contact opnemen met:
 
 Feico Hajonides,
 Windheuvelstraat 3,
