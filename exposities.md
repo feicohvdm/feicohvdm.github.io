@@ -7,19 +7,19 @@ header:
     text: light
 ---
 
-Van 20 juni tot 18 juli
-## Hooglied expositie in Sijthoff Leiden
+Van 20 juni tot 18 juli 2020
+## Hooglied expositie in Sijthoff te Leiden
 
-Na een zeer geslaagde Hooglied expositie in Elburg exposeren Jackie Howart en ik weer samen onze Hooglied beelden en textiel.
+Na een zeer geslaagde Hooglied expositie in de zomer van 2019 in Elburg zetten Jackie Howart en ik de lijn door. We gaan onze Hooglied beelden en textiel wederom exposeren.
 Dit keer in cultuurcentrum Sijthoff in Leiden.
 Naast eerder getoond werk zal u ook nieuw werk tegenkomen.
-Van harte welkom!
+U bent van harte welkom!
 
-Cultuurcentrum Sijthof,
+Cultuurcentrum Sijthoff,
 Doezastraat 1b,
 Leiden
 
-Openings tijden:  maandag t/m zaterdag 9:30 uur tot 16:00 uur   
+Openingstijden:  maandag t/m zaterdag 9:30 uur tot 16:00 uur   
 
 
 
