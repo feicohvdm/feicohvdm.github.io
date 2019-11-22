@@ -30,7 +30,8 @@ Een goed gesprek schept een ruimte om de gesprekspartners heen. Een ruimte die o
 Het omarmen van de uiterlijke ruimte schept innerlijke ruimte in onze ziel.
 
 
-## Image Lightbox
+## Lightbox
+Klik op de foto en hij wordt vergroot.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/overwinning-op-de-leugen-kopie_orig.jpg" style="wide" lightbox="true" alt="Alt for image" caption="Overwinning op de leugen" %}
 
