@@ -20,11 +20,11 @@ Sterk kan een mens zijn als hij/zij in staat is om kwetsbaar te zijn.
 
 Als we als mens een scheppende wil in ons dragen, dan stuuwt deze scheppende wil ons de toekomst in.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/poort-van-schenken-kopie_orig.jpg" alt="Alt for image" caption="poort van ontwikkeling" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/poort-van-schenken-kopie_orig.jpg" alt="Alt for image" caption="Poort van ontwikkeling" %}
 
 Als we een mens echt willen ontmoeten kunnen we achter zijn fysieke bestaan een doorgang vinden. Proberen we deze poort in liefde te openen dan kunnen we daar het wezenlijke en duurzame van deze mens vinden.
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/pa150289-2-kopie_orig.jpg" alt="Alt for image" caption="schoon" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/pa150289-2-kopie_orig.jpg" alt="Alt for image" caption="Schoon" %}
 
 Schoonheid doet het menselijk lichaam verheffen. Het tilt tevens een tipje op van de eeuwigheid die in ons leeft.
 
