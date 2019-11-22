@@ -30,7 +30,7 @@ Zaterdag, de dag waarin het gestorvenen doortrilt tot diep in de aarde en hierin
 
 
 
-## Image Slideshow
-een serie kosmogrammen vanuit de beleving van de kwaliteit van de verschilende dagen in de stille week
+## een serie kosmogrammen
+Een serie vanuit de beleving van de kwaliteit van de verschilende dagen in de stille week
 
 {% include slideshow.html gallery="slideshow-3" style="wide" %}
