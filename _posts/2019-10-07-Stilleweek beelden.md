@@ -10,7 +10,7 @@ In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/hooglied-header_orig.jpg" alt="Alt for image" caption="palmzondag" %}
 
-Palmzondag, de dag waarop Christus wordt herkent en wordt binnengehaald.
+Palmzondag, de dag waarop Christus herkent wordt en zich openbaart.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/kiemcirkel-kopie_orig.jpg" alt="Alt for image" caption="maandag" %}
 
