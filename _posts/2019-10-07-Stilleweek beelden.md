@@ -33,4 +33,4 @@ Zaterdag, de dag waarin het gestorvenen doortrilt tot diep in de aarde en hierin
 ## Image Slideshow
 
 
-{% include slideshow.html gallery="slideshow-1" style="wide" %}
+{% include slideshow.html gallery="slideshow-3" style="wide" %}
