@@ -6,25 +6,25 @@ header:
     align:
     text: light
 ---
-In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde christelijke inhoud. Elk jaar weer probeer ik deze inhoud opnieuw in beelden te vatten. 
+In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde christelijke inhoud. Elk jaar weer probeer ik deze inhoud opnieuw in beelden te vatten.
 
-{% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
-
-In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Deze inhoud heb ik jaren lang opnieuw gezocht en verbeeld.
-
-{% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/hooglied-header_orig.jpg" alt="Alt for image" caption="palmzondag" %}
 
 In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Deze inhoud heb ik jaren lang opnieuw gezocht en verbeeld.
 
-{% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/kiemcirkel-kopie_orig.jpg" alt="Alt for image" caption="maandag" %}
 
 In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Deze inhoud heb ik jaren lang opnieuw gezocht en verbeeld.
 
-{% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/dinsdag-kopie-2_orig.jpg" alt="Alt for image" caption="dinsdag" %}
 
 In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Deze inhoud heb ik jaren lang opnieuw gezocht en verbeeld.
 
-{% include image.html img="https://source.unsplash.com/e5pqjD85NRg" alt="Alt for image" caption="Girl on a rock" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/stille-week-woensdag-kopie-2_orig.jpg" alt="Alt for image" caption="woensdag" %}
+
+In de week voor Pasen -de Stille Week- krijgen de dagen van de week een bepaalde inhoud. Deze inhoud heb ik jaren lang opnieuw gezocht en verbeeld.
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/4-de-aarde-resoneert-kopie-2_orig.jpg" alt="Alt for image" caption="zaterdag" %}
 
 
 
