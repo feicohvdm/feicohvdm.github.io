@@ -6,7 +6,7 @@ header:
     align:
     text: light
 ---
-Achter de vorm van de mens ervaar ik het mysterie van menszijn. Het is een ontdekkingsreis om de mens te verbeelden als ontwikkelend geestelijk wezen. 
+Achter de vorm van de mens ervaar ik het mysterie van menszijn. Het is een ontdekkingsreis om de mens te verbeelden als ontwikkelend geestelijk wezen op aarde. 
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/welkom_orig.jpg" alt="Alt for image" caption="Welkom" %}
 
