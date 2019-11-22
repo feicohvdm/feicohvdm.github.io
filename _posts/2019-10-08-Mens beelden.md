@@ -26,7 +26,7 @@ Als we een mens echt willen ontmoeten kunnen we achter zijn fysieke bestaan een 
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/pa150289-2-kopie_orig.jpg" alt="Alt for image" caption="schoon" %}
 
-Schoonheid doet het menselijk lichaam verheffen. Het tilt tevens een tipje op van onze aardse tijdelijkheid.
+Schoonheid doet het menselijk lichaam verheffen. Het tilt tevens een tipje op van de eeuwigheid die in ons leeft.
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/verwanten_orig.jpg" alt="Alt for image" caption="Verwanten dragen we om ons heen" %}
 
