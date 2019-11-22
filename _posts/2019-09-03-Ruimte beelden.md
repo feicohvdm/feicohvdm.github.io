@@ -32,7 +32,7 @@ Het omarmen van de uiterlijke ruimte schept innerlijke ruimte in onze ziel.
 
 ## Image Lightbox
 
-{% include image.html img="https://source.unsplash.com/TT-ROxWj9nA.jpg" style="wide" lightbox="true" alt="Alt for image" caption="Wide image in lightbox" %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/overwinning-op-de-leugen-kopie_orig.jpg" style="wide" lightbox="true" alt="Alt for image" caption="Overwinning op de leugen" %}
 
 
 
