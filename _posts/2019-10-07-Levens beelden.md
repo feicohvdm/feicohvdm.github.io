@@ -10,7 +10,7 @@ Als beeldhouwer ervaar ik een uitdaging om roerloze vaste aardse materie zo vorm
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/kiem-hout_orig.jpg" alt="Alt for image" caption="Kiem -eikenhout-" %}
 
-Niet alleen in de plantenwereld vind je kiemen. Ook in ons menszijn leven kiemen. Bijvoorbeeld als een bepaald vermogen dat sluimert eindelijk de tijd krijgt om zich te ontplooien is dat een kiem die bloem kan worden.
+Niet alleen in de plantenwereld vind je kiemen. Ook in ons menszijn leven kiemen. Bijvoorbeeld als een bepaald vermogen dat sluimert eindelijk de tijd krijgt om zich te ontplooien en een spreekwoordelijke bloem te worden.
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/swing_orig.jpg" alt="Alt for image" caption="Swing" %}
 
