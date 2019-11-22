@@ -1,13 +1,12 @@
 ---
 layout: post
 subtitle:
-categories:
 header:
     image: http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/maria_orig.jpg
     align:
     text: light
 ---
-Achter de vorm van de mens schuilt het mysterie van menszijn. Met de mens beelden die ik gemaakt heb probeer ik de mens en zijn ontwikkeling te onderzoeken.
+Achter de vorm van de mens ervaar ik het mysterie van menszijn. Het is een ontdekkingsreis om de mens te verbeelden als ontwikkelend geestelijk wezen. 
 
 {% include image.html img="http://organischebeeldhouwkunst.weebly.com/uploads/2/5/8/5/25853585/welkom_orig.jpg" alt="Alt for image" caption="Welkom" %}
 
