@@ -18,7 +18,7 @@ Windheuvelstraat 3,
 6971 JV Brummen
 Holland
 
-Tel: 06 30953313
+Tel: 0630953313
 
 
 {% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}
