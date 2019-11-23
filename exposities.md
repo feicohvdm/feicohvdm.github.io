@@ -22,4 +22,4 @@ Leiden
 Openingstijden:  maandag t/m zaterdag 9:30 uur tot 16:00 uur   
 
 
-![Film over de Hooglied expositie](https://i.imgur.com/hMn8zJH.png = 203x359)](https://vimeo.com/375091281 "Hooglied expositie")
+[![Film over de Hooglied expositie](https://imgur.com/NEB6uqt.png]https://vimeo.com/375091281 "Hooglied expositie")
