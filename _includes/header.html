@@ -77,7 +77,7 @@
                     {% if page.id and site.author.name %}
                         by {{ site.author.name }}
                     {% endif %}
-                    {% if page.id and page.categories %}in
+                    {% if page.id and page.categories %}
                         {% for category in page.categories %}
                             <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
                             {% unless forloop.last %}{% endunless %}
