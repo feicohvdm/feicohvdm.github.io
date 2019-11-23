@@ -54,5 +54,5 @@ Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen m
 
 
 <div align="center">
-  <a href="https://vimeo.com/375091281"><img src="https://imgur.com/NEB6uqt.png" alt="Expositie"></a>
+  <a href="https://www.youtube.com/watch?v=1X3LcUwhRTo"><img src="https://imgur.com/ZjdOEKQ.png" alt="Hooglied beelden"></a>
 </div>
