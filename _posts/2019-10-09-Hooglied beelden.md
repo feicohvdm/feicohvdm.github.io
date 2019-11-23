@@ -52,4 +52,7 @@ Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen m
 
 ## Film over de Hooglied expositie
 
-[![Film over de Hooglied expositie](posts/thumbnail.png]https://vimeo.com/375091281 "Hooglied expositie")
+
+<div align="center">
+  <a href="https://vimeo.com/375091281"><img src="https://imgur.com/NEB6uqt.png" alt="Expositie"></a>
+</div>
