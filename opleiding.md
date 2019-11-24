@@ -22,6 +22,7 @@ Voor uitgebreidere informatie over deze opleiding: [http://www.organischebeeldho
 
 Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
 Voor een kennismakingsgesprek kun je contact met Feico opnemen: telf. 0630953313
+
 Voor aanmelding via mail klik [hier](contact.md)
 
 
@@ -29,6 +30,7 @@ Voor aanmelding via mail klik [hier](contact.md)
 
 Op 18 t/m 22 augustus  zijn de introductie dagen. In deze vijf dagen maak je kennis met een onderdeel van de organische beeldhouwkunst. Een prima gelegenheid om kennismaken te maken met de verschillende werkruimten, de manier van lesgeven en een thema binnen de organische beeldhouwkunst. Vragen krijgen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in jou aan? Zie je jezelf vanuit de Organische Beeldhouwkunst werkzaam zijn?
 Deze vragen worden gedurende de introductie steeds weer vanuit een ander gezichtspunt bewogen.
+
 Voor aanmelding via mail klik [hier](contact.md)
 
 
