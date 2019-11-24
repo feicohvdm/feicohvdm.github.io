@@ -16,6 +16,8 @@ Natuurlijk is er geen pasklaar concept hoe het kunstenaarschap eruit ziet. Dat i
 
 In het derde jaar staat het aangaan van een eigen project en/of opdracht met alles wat daarbij komt kijken centraal. Een project en/of opdracht waarin je jouzelf als beeldhouwer in de ruimste zin van het woord kan laten zien.
 
+Voor uitgebreidere informatie over deze opleiding: [http://www.organischebeeldhouwkunst.nl](http://www.organischebeeldhouwkunst.nl)
+
 ## Oriëntatie bijeenkomst
 
 Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
