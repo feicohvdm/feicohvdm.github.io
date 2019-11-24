@@ -29,5 +29,3 @@ Onderstaande film werd op de expositie in Elburg doorlopend vertoond. Het geeft 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=1X3LcUwhRTo"><img src="https://imgur.com/ZjdOEKQ.png" alt="Hooglied beelden"></a>
 </div>
-
-[![Film over de Hooglied expositie](https://imgur.com/NEB6uqt.png]https://vimeo.com/375091281 "Hooglied expositie")
