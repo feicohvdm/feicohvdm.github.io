@@ -48,4 +48,4 @@ Aardewerkplaats Amiel.
 Windheuvelstraat 3
 6971 JV Brummen (nabij Zutphen).
 
-Voor uitgebreidere informatie over deze opleiding: http://www.organischebeeldhouwkunst.nl
+Voor uitgebreidere informatie over deze opleiding: [http://www.organischebeeldhouwkunst.nl](http://www.organischebeeldhouwkunst.nl)

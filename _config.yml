@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Momoir - Jekyll Template for Story Tellers
-description:        Hi, I'm Memoir, an awesome Jekyll bloging theme.
+title:              Feico Hajonides
+description:        Website van beeldhouwer Feico Hajonides
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -40,8 +40,8 @@ author:
     youtube:        https://www.youtube.com/
 
 # Social share buttons
-twitter_username:   ivanchromjak
-github_username:    ivanchromjak
+# twitter_username:   ivanchromjak
+# github_username:    ivanchromjak
 
 # Site background color
 template:           light       # light or dark
@@ -57,7 +57,7 @@ footer:
     image:          footer.jpg  # upload your header image to /assets/posts/ folder
     align:          center      #top, center or bottom
     text:           light       # light or dark
-    copyright:     
+    copyright:
 
 # Post settings
 post:

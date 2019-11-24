@@ -52,6 +52,7 @@ Deze beelden zijn ontstaan voor een expositie in Museum Sjoel te Elburg. Samen m
 
 ## Film over de Hooglied expositie
 
-```html
-<iframe src="http://www.youtube.com/embed/YE7VzlLtp-4?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="600" height="340" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
-```
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1X3LcUwhRTo"><img src="https://imgur.com/ZjdOEKQ.png" alt="Hooglied beelden"></a>
+</div>
