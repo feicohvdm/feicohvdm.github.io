@@ -135,7 +135,6 @@ To display Google map on contact page, add the following in your page content, r
 Submit the form and confirm your email address at [FormSpree](https://formspree.io/). Then add the following lines to contact page YAML Front Matter, replacing the email address:
 
 ```yaml
-formspree:
     email: feicohajonides@hotmail.com
     redirect: /thanks/
 ```
