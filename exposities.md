@@ -22,6 +22,8 @@ Leiden
 Openingstijden:  maandag t/m zaterdag 9:30 uur tot 16:00 uur   
 
 
+
+
 ## Film over de Hooglied expositie
 
 Onderstaande film werd op de expositie in Elburg doorlopend vertoond. Het geeft een goed beeld van de achtergronden van onze samenwerking.
