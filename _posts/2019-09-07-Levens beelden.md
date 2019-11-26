@@ -25,6 +25,10 @@ Het is een feest om een plant zich te zien ontplooien. Naar onder toe zoekt de p
 In de beeldhouwkunst worden er ingangen gezocht naar levende beelden. Beelden die de suggestie uitspreken dat ze leven. Misschien leven ze wel maar zien we dit nog niet.
 
 
+
+## Een waterbeeld voor therapeuticum Aqumarijn te Arnhem
+De manier hoe er met patienten ongegaan wil worden hebben we verbeeld in een waterbeeld. Voor een film van dit waterbeeld klik linksonder de foto.
+
 <div align="center">
   <a href="https://vimeo.com/375091281"><img src="https://imgur.com/NEB6uqt.png" alt="Expositie"></a>
 </div>
