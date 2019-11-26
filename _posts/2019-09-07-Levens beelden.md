@@ -27,7 +27,7 @@ In de beeldhouwkunst worden er ingangen gezocht naar levende beelden. Beelden di
 
 
 ## Een waterbeeld voor therapeuticum Aqumarijn te Arnhem
-De manier hoe er met patienten ongegaan wil worden hebben we verbeeld in een waterbeeld. Voor een film van dit waterbeeld klik linksonder de foto.
+De manier hoe er met patienten omgegaan wil worden hebben we verbeeld in een waterbeeld. Voor een film van dit levendige stromen klik linksonder de foto.
 
 <div align="center">
   <a href="https://vimeo.com/375091281"><img src="https://imgur.com/NEB6uqt.png" alt="Expositie"></a>
