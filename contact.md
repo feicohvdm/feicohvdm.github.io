@@ -4,7 +4,7 @@ title: Contact
 subtitle:
 permalink: /contact/
 header:
-    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/dragende-liefde_orig.jpg
+    image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/11-verbonden_orig.jpg
     text: light
 formspree:
     email: feicohajonides@hotmail.com
