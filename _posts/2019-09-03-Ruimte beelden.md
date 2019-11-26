@@ -37,11 +37,6 @@ Klik op de foto en hij wordt vergroot.
 
 
 
-## Image Slideshow
-Sommige beelden werken sterker door op hun direkte omgeving dan anderen. Met ruimte beelden probeer ik een gebaar, een verhaal vanuit het beeld ruimtelijk te maken.
+## kleinere ruimte beelden
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
-
-Sommige beelden werken sterker door op hun direkte omgeving dan anderen. Met ruimte beelden probeer ik een gebaar, een verhaal vanuit het beeld ruimtelijk te maken.
-
-{% include slideshow.html gallery="slideshow-1" style="wide" %}
+{% include slideshow.html gallery="slideshow-2" style="wide" %}
