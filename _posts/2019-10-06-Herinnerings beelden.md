@@ -28,7 +28,8 @@ Het rouwen om een gestorven dierbare is hartverscheurend. Enerzijds zal er los g
 Ter nagedachtenis aan een geliefde vriendin.
 
 ## Kleinere herinnerings beelden
+Drie beelden gemaakt voor therapeuticum "de Rozenhof" in Zutphen. 1/Kind, 2/Volwassen, 3/Ouder.
 Klik hiervoor links of rechts van de onderstaande foto
 
 
-{% include slideshow.html gallery="slideshow-1" style="wide" %}
+{% include slideshow.html gallery="slideshow-4" style="wide" %}
