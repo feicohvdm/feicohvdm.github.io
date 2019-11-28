@@ -27,7 +27,7 @@ Openingstijden:  maandag t/m zaterdag 9:30 uur tot 16:00 uur
 
 ## Film over de Hooglied expositie
 
-Onderstaande film werd op de expositie in Elburg doorlopend vertoond. Het geeft een goed beeld van de achtergronden van onze samenwerking.
+Onderstaande film werd op de expositie in Elburg doorlopend vertoond. Het geeft een goed beeld van de achtergronden van onze inspirerende samenwerking.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=1X3LcUwhRTo"><img src="https://imgur.com/ZjdOEKQ.png" alt="Hooglied beelden"></a>
