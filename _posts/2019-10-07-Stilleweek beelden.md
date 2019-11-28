@@ -31,6 +31,6 @@ Zaterdag, de dag waarin het gestorvenen doortrilt tot diep in de aarde en hierin
 
 
 ## Een serie kosmogrammen
-Hieronder een verbeelding van maandag tot en met zaterdag in de Stille week. Klik hiervoor links of rechts van de foto.
+Hieronder een serie kosmogrammen die ik in de Stille week 2019 gemaakt hebt. Te beginnen bij maandag tot Stille zaterdag. Klik hiervoor links of rechts van de foto.
 
 {% include slideshow.html gallery="slideshow-3" style="wide" %}
