@@ -17,27 +17,15 @@ In grote lijnen kan ik zeggen dat mijn beelden religieus geinspireerd zijn. Ze k
 Momenteel werk ik vooral in brons. Na 20 jaar bronsgieten kan ik zeggen dat ik grote liefde voor deze substantie ben gaan voelen. Het is een prachtig materiaal met een eigenheid en kwaliteit dat zich leent om beeldende verhalen in uit te spreken. Het werken naar een bronzen beeld toe is gevoel hebben voor processen. Een bronzen beeld kan pas ontstaan als het beeld door een veelvoud aan processen is gegaan. Te beginnen met het inmallen om te eindigen bij het patineren van het gegoten werk. Juist dit proces gericht werken ligt mij goed. Hierin voel ik de levende wereld in een aards jasje. Alles wat leeft gaat op aarde immmers door processen heen. Het intens en betrokken voltrekken van de processen van het bronsgieten maken voor mij dat mijn beelden gaan leven. Gevuld met mijn aandacht en zorg zet ik ze op de aarde neer in de hoop dat ze inspirerend verder mogen leven.
 
 
-> Een greep uit recensies
-
-"Feico Hajonides maakt kleine en lichtvoetige bronzen, die alle verwijzen naar opstanding. Leven, dat oprijst uit de dood in een verrassend lijnenspel.
-De vlucht- en vleugelsuggesties in hun opgaande bewegingen, een bloemvorm, die tot enkele kruisende dunne boogjes is gereduceerd, een mensengestalte als een smal etherisch aan zichzelf ontstijgend silhouet.
-Toch is dit niet de enige Hajonides. Er is een andere, die forse en loodzware wandreliëfs creëert, die muren doen kreunen. Soms lijken ze op brokken kleigrond, gegroefd door wind en water. Maar het zouden ook brokken steen kunnen zijn, zó uit de bergen weggezaagd. Versteend leven. Heel monumentaal en indrukwekkend."
-Gelders Dagblad (Marrit Verwiel)
-
-"Feico Hajonides toont esthetische, abstrakte bronzen, die heel doordacht en fijnzinnig van vorm zijn. Prachtige lijnen en vlakverhoudingen in volwassen beelden."
-NRC Handelsblad
-
-"Het zijn ruimtelijk sterk gevormde beelden. Sommige van marmer, anderen van ijzer of brons. Het is wonderlijk, maar soms lijkt het erop, alsof de beelden van Hajonides leven. Men zou de indruk kunnen krijgen, alsof ze bewogen hebben, nu tot rust zijn gekomen, om opnieuw te gaan bewegen."
-Kunstkrant
-
-
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/bronsgieten-kopie-3_orig.jpg" alt="Alt for image" %}
 
 > Mijn aanpak van opdrachten
 
 Opdrachten voor het vervaardigen van een beeld zijn keer op keer zeer unieke processen. Ik besteed veel zorg aan het gesprek tussen mij en de opdrachtgever. Samen gaan we op weg naar een nieuw, bijzonder beeld dat past in de vraag achter de opdracht. Diverse schetsen in klei en/of boetseerwas helpt ons naar het uiteindelijke beeld. Als het even kan probeer ik het beeld te gieten in aanwezigheid van de opdrachtgever. Als dat een groep is, proberen we het zo te organiseren dat het beeld op locatie gegoten wordt in samenwerking en in aanwezigheid van alle betrokkenen.
 
-Als voorbeeld wil ik hier graag het proces aanhalen die ik gegaan ben met de protestante gemeente van de Regenboogkerk in Oegstgeest. Mij werd in der tijd gevraagd om een beeld te maken die past in deze kerk en haar gemeente kon inspireren.
+Foto's en een beknopte beschrijving van enkele opdrachten vindt u [hier](2019-11-7-Welkom.md)  
+
+Als voorbeeld hoe ik een opdracht aan ga haal ik hier het proces aan dat ik gegaan ben met leden van de protestante gemeente (Regenboogkerk) in Oegstgeest. Mij werd in der tijd gevraagd om een beeld te maken die past in deze kerk en haar gemeente kon inspireren.
 
 De eerste stap naar een beeld toe waren diverse gespreken met een Kunstcommissie. Deze gesprekken gingen over dat wat ieder typerend vond aan deze gemeente. In deze gesprekken werd de "ziel" van de gemeente gezocht, bewogen en in woord en gebaar uitgedrukt.
 
