@@ -23,7 +23,7 @@ Momenteel werk ik vooral in brons. Na 20 jaar bronsgieten kan ik zeggen dat ik g
 
 Opdrachten voor het vervaardigen van een beeld zijn keer op keer zeer unieke processen. Ik besteed veel zorg aan het gesprek tussen mij en de opdrachtgever. Samen gaan we op weg naar een nieuw, bijzonder beeld dat past in de vraag achter de opdracht. Diverse schetsen in klei en/of boetseerwas helpt ons naar het uiteindelijke beeld. Als het even kan probeer ik het beeld te gieten in aanwezigheid van de opdrachtgever. Als dat een groep is, proberen we het zo te organiseren dat het beeld op locatie gegoten wordt in samenwerking en in aanwezigheid van alle betrokkenen.
 
-Foto's en een beknopte beschrijving van enkele opdrachten vindt u [hier](welkom)  
+Foto's en een beknopte beschrijving van enkele opdrachten vindt u [hier](_posts/2019-11-7-Welkom.md)  
 
 Als voorbeeld hoe ik een opdracht aan ga haal ik hier het proces aan dat ik gegaan ben met leden van de protestante gemeente (Regenboogkerk) in Oegstgeest. Mij werd in der tijd gevraagd om een beeld te maken die past in deze kerk en haar gemeente kon inspireren.
 
