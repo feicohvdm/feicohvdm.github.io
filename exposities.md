@@ -8,10 +8,10 @@ header:
 ---
 
 Van 5 april tot 3 mei 2020
-## Stille Week- en Paasbeelden expositie in de Lucaskerk te Alkmaar
+## Stille Week- en Paasbeelden in de Lucaskerk te Alkmaar
 
 Al diverse jaren maak ik tijdens de Stille week (de Goede Week), de week voor Pasen,
-een serie beelden. Met deze beelden probeer ik de opdracht naar ons mensen toe te verbeelden die ik in deze dagen ervaar. Enkele van deze beelden kunt u in deze expositie zien.
+een serie beelden. Met deze beelden probeer ik de opdracht naar ons mensen toe, die ik in deze dagen ervaar, te verbeelden. Enkele van deze beelden kunt u in deze expositie zien.
 U bent van harte welkom!
 
 de Lukaskerk Christengemeenschap,
@@ -20,6 +20,8 @@ Oude Kanaaldijk 9,
 
 Openingstijden: zondag van 10:00 tot 12:00 uur.
 en op afspraak.
+
+
 
 
 Van 20 juni tot 18 juli 2020
