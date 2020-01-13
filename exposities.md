@@ -19,13 +19,13 @@ Oude Kanaaldijk 9,
 1825 AT Alkmaar
 
 Openingstijden:
-zondag 5 april 13:00 tot 16:00 uur.
-donderdag 16 april 13:00 tot 16:00 uur.
-zondag 19 april 13:00 tot 16:00 uur.
-donderdag 23 april 13:00 tot 16:00 uur.
-zondag 26 april 13:00 tot 16:00 uur.
-donderdag 30 april 13:00 tot 16:00 uur.
-zondag 3 mei geeft Feico van 11:30 tot 12:00 uur een toelichting op de geexposeerde beelden. Welkom!
+Zondag 5 april 13:00 tot 16:00 uur.
+Donderdag 16 april 13:00 tot 16:00 uur.
+Zondag 19 april 13:00 tot 16:00 uur.
+Donderdag 23 april 13:00 tot 16:00 uur.
+Zondag 26 april 13:00 tot 16:00 uur.
+Donderdag 30 april 13:00 tot 16:00 uur.
+Zondag 3 mei geeft Feico van 11:30 tot 12:00 uur een toelichting op de geexposeerde beelden. Welkom!
 
 
 
