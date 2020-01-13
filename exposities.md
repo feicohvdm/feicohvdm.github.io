@@ -25,7 +25,7 @@ zondag 19 april 13:00 tot 16:00 uur.
 donderdag 23 april 13:00 tot 16:00 uur.
 zondag 26 april 13:00 tot 16:00 uur.
 donderdag 30 april 13:00 tot 16:00 uur.
-zondag 3 mei geeft Feico van 11:30 tot 12:00 uur een toelichting op de geexposeerde beelden. U bent van harte welkom!
+zondag 3 mei geeft Feico van 11:30 tot 12:00 uur een toelichting op de geexposeerde beelden. Welkom!
 
 
 
