@@ -18,8 +18,16 @@ de Lukaskerk Christengemeenschap,
 Oude Kanaaldijk 9,
 1825 AT Alkmaar
 
-Openingstijden: zondag van 10:00 tot 12:00 uur.
-en op afspraak.
+Openingstijden:
+zondag 5 april 13:00 tot 16:00 uur.
+donderdag 16 april 13:00 tot 16:00 uur.
+zondag 19 april 13:00 tot 16:00 uur.
+donderdag 23 april 13:00 tot 16:00 uur.
+zondag 26 april 13:00 tot 16:00 uur.
+donderdag 30 april 13:00 tot 16:00 uur.
+zondag 3 mei geeft Feico van 11:30 tot 12:00 uur een toelichting op de geexposeerde beelden. U bent van harte welkom!
+
+
 
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" %}
