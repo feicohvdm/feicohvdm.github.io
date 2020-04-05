@@ -7,27 +7,7 @@ header:
     text: light
 ---
 
-Van 5 april tot 3 mei 2020
-## Stille week- en Paasbeelden in de Lucaskerk te Alkmaar
-
-Al diverse jaren maak ik tijdens de Stille week (de Goede Week), de week voor Pasen,
-een serie beelden. Met deze beelden probeer ik de opdracht naar ons mensen toe, die ik in deze dagen ervaar, te verbeelden. Enkele van deze beelden kunt u in deze expositie zien.
-U bent van harte welkom!
-
-de Lukaskerk Christengemeenschap,
-Oude Kanaaldijk 9,
-1825 AT Alkmaar
-
-Openingstijden:
-Zondag 5 april 13:00 tot 16:00 uur.
-Donderdag 16 april 13:00 tot 16:00 uur.
-Zondag 19 april 13:00 tot 16:00 uur.
-Donderdag 23 april 13:00 tot 16:00 uur.
-Zondag 26 april 13:00 tot 16:00 uur.
-Donderdag 30 april 13:00 tot 16:00 uur.
-Zondag 3 mei geeft Feico van 11:30 tot 12:00 uur een toelichting op de geexposeerde beelden. Welkom!
-
-
+qqq
 
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" %}
