@@ -28,22 +28,23 @@ Voor aanmelding via mail klik [hier](contact.md)
 
 ## Introductie dagen
 
-Op 18 t/m 22 augustus  zijn de introductie dagen. In deze vijf dagen maak je kennis met een onderdeel van de organische beeldhouwkunst. Een prima gelegenheid om kennismaken te maken met de verschillende werkruimten, de manier van lesgeven en een thema binnen de organische beeldhouwkunst. Vragen krijgen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in jou aan? Zie je jezelf vanuit de Organische Beeldhouwkunst werkzaam zijn?
-Deze vragen worden gedurende de introductie steeds weer vanuit een ander gezichtspunt bewogen.
+Op 13 t/m 15 augustus  zijn de introductie dagen. In deze drie dagen maak je kennis met een onderdeel van de organische beeldhouwkunst. Een prima gelegenheid om kennismaken te maken met de verschillende werkruimten, de manier van lesgeven en een thema binnen de organische beeldhouwkunst namelijk boetseren van portret.
+De volgende vragen krijgen in deze dagen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in jou aan? Zie je jezelf vanuit de Organische Beeldhouwkunst werkzaam zijn?
+Deze vragen worden gedurende de introductie bewogen.
 
 Voor aanmelding via mail klik [hier](contact.md)
 
 
 ## Kosten
 
-De kosten voor de vijf introductie dagen zijn 600,- euro  (dit is inclusief materiaal en lunch)
+De kosten voor de drie introductie dagen zijn 350,- euro  (dit is inclusief materiaal en lunch)
 De kosten voor de opleiding zijn 2500,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten, koffie/thee. exclusief de kosten voor het bronsgieten en museum bezoek.)
 Als de kosten een bezwaar zijn dan kunnen we in een oriëntatie gesprek mogelijkheden bespreken (ondermeer prive en algemene fondsen) om deze opleiding voor jou mogelijk te maken.
 
 ## Tijd
 
-Het eerste jaar start op 4 en 5 september.
-Het eerste én tweede opleidingsjaar bestaan samen uit 50 bijeenkomst-dagen. Het komt erop neer dat we in het eerste en tweede jaar tien keer op een vrijdag met aansluitend de zaterdag bij elkaar komen. Daarbij komt in het voorjaar een zogenaamde "werkweek" van vijf dagen.
+Het eerste jaar start in september. De exacte datum hangt af van de duur van de corona crisis.
+Het eerste én tweede opleidingsjaar bestaan samen uit 50 bijeenkomst-dagen. Het komt erop neer dat we in het eerste en tweede jaar tien keer op een vrijdag met aansluitend de zaterdag bij elkaar komen. Daarbij komt in het voorjaar een zogenaamde "werkweek" van vier of vijf dagen.
 Voor een complete datalijst van het eerste jaar kun je contact opnemen met Feico.
 Iedere dag begint om 9:30 uur (welkom vanaf 9:00 uur) en eindigt uiterlijk om 17:00 uur.
 
