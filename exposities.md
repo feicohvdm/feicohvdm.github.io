@@ -6,10 +6,7 @@ header:
     image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/expositie-4_orig.jpg
     text: light
 ---
- 
 
-
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" %}
 
 
 
@@ -27,6 +24,9 @@ Leiden
 
 Openingstijden:  maandag t/m zaterdag 9:30 uur tot 16:00 uur   
 
+
+
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" %}
 
 
 
