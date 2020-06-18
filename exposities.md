@@ -10,7 +10,7 @@ header:
 
 
 
-Van 20 juni tot 18 juli 2020
+Van 26 juni tot 24 juli 2021
 ## Hooglied expositie in Sijthoff te Leiden
 
 Na een zeer geslaagde Hooglied expositie in de zomer van 2019 in Elburg zetten Jackie Howart en ik de lijn door. We gaan onze Hooglied beelden en textiel wederom exposeren.
