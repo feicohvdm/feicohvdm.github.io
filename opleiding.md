@@ -8,7 +8,7 @@ header:
 ---
 ## Driejarige parttime beroepsopleiding organische beeldhouwkunst
 
-In september 2020 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Een driejarige parttime opleiding waarin handvaten aangeboden worden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. Deze opleiding/scholingsweg leidt je op om de beeldhouwkunst beroepsmatig te kunnen gaan uitoefenen.
+In oktobers 2020 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Een driejarige parttime opleiding waarin handvaten aangeboden worden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. Deze opleiding/scholingsweg leidt je op om de beeldhouwkunst beroepsmatig te kunnen gaan uitoefenen.
 In deze opleiding hopen we een beeldhouwkunst aan te bieden die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uiterlijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin het proces van vormontwikkeling in een beeld belangrijk is. Kortom een beeldhouwkunst die ons wakker maakt voor de levende waarachtigheid in en achter de zichtbare vormen.
 
 Essentieel in deze scholingsweg is het uitgangspunt dat ieder mens in wezen een kunstenaar is. Het is de vraag hoe ieder met deze kiem van het kunstenaarschap wil omgaan. In deze opleiding proberen we een voedingsbodem te scheppen zodat ieder op een geheel eigen manier het eigen kunstenaarschap kan ontwikkelen.
@@ -43,10 +43,10 @@ Als de kosten een bezwaar zijn dan kunnen we in een oriëntatie gesprek mogelijk
 
 ## Tijd
 
-Het eerste jaar start in september. De exacte datum hangt af van de duur van de corona crisis.
+Het eerste jaar start oktober. De exacte datum hangt af van de duur van de corona crisis.
 Het eerste én tweede opleidingsjaar bestaan samen uit 50 bijeenkomst-dagen. Het komt erop neer dat we in het eerste en tweede jaar tien keer op een vrijdag met aansluitend de zaterdag bij elkaar komen. Daarbij komt in het voorjaar een zogenaamde "werkweek" van vier of vijf dagen.
 Voor een complete datalijst van het eerste jaar kun je contact opnemen met Feico.
-Iedere dag begint om 9:30 uur (welkom vanaf 9:00 uur) en eindigt uiterlijk om 17:00 uur.
+Iedere dag begint om 9:00 uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
 
 ## Plaats
 
