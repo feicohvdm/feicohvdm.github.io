@@ -26,18 +26,8 @@ Voor een kennismakingsgesprek kun je contact met Feico opnemen: telf. 0630953313
 Voor aanmelding via mail klik [hier](contact.md)
 
 
-## Introductie dagen
-
-Op 13 t/m 15 augustus  zijn de introductie dagen. In deze drie dagen maak je kennis met een onderdeel van de organische beeldhouwkunst. Een prima gelegenheid om kennismaken te maken met de verschillende werkruimten, de manier van lesgeven en een thema binnen de organische beeldhouwkunst namelijk boetseren van portret.
-De volgende vragen krijgen in deze dagen vorm: Wat is de Organische Beeldhouwkunst? Wat spreekt deze kunstvorm in jou aan? Zie je jezelf vanuit de Organische Beeldhouwkunst werkzaam zijn?
-Deze vragen worden gedurende de introductie bewogen.
-
-Voor aanmelding via mail klik [hier](contact.md)
-
-
 ## Kosten
 
-De kosten voor de drie introductie dagen zijn 350,- euro  (dit is inclusief materiaal en lunch)
 De kosten voor de opleiding zijn 2500,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten, koffie/thee. exclusief de kosten voor het bronsgieten en museum bezoek.)
 Als de kosten een bezwaar zijn dan kunnen we in een oriëntatie gesprek mogelijkheden bespreken (ondermeer prive en algemene fondsen) om deze opleiding voor jou mogelijk te maken.
 
