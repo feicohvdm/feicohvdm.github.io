@@ -34,8 +34,8 @@ Als de kosten een bezwaar zijn dan kunnen we in een oriëntatie gesprek mogelijk
 ## Tijd
 
 Het eerste jaar start in september 2021.
-Het introductiejaar bestaan samen uit 23 dag-bijeenkomsen. De verdiepingsjaren samen 46 dag-bijeenkomsten. Op vrijdagen met aansluitend de zaterdag werken we met elkaar. Daarbij komt in het voorjaar een zogenaamde "werkweek" van drie dagen.
-Voor een complete datalijst van het eerste jaar kun je contact opnemen met Feico.
+Het introductiejaar bestaat uit 23 dag-bijeenkomsen. De verdiepingsjaren samen bestaan uit 46 dag-bijeenkomsten. Op vrijdagen met aansluitend de zaterdag werken we met elkaar. Daarbij komt in het voorjaar een zogenaamde "werkweek" van drie dagen.
+Voor een complete datalijst van het introductie jaar kun je contact opnemen met Feico.
 Iedere dag begint om 9:00 uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
 
 ## Plaats
