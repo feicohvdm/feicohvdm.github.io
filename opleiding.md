@@ -6,36 +6,48 @@ header:
     image: https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/opleiding-6_orig.jpg
     text: light
 ---
-## Driejarige parttime beroepsopleiding organische beeldhouwkunst
+## parttime beroepsopleiding organische beeldhouwkunst
 
-In september 2021 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). Een driejarige parttime opleiding waarin handvaten aangeboden worden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen. Deze opleiding/scholingsweg leidt je op om de beeldhouwkunst beroepsmatig te kunnen gaan uitoefenen.
-In deze opleiding hopen we een beeldhouwkunst aan te bieden die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uiterlijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin het proces van vormontwikkeling in een beeld belangrijk is. Kortom een beeldhouwkunst die ons wakker maakt voor de levende waarachtigheid in en achter de zichtbare vormen.
+10 september 2021 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). We beginnen met een introductiejaarductie jaar. Waarin je handvaten aangeboden worden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen.
+In deze opleiding willen we een beeldhouwkunst aan bieden die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uiterlijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin het proces van vormontwikkeling in een beeld belangrijk is. Kortom een beeldhouwkunst die ons wakker maakt voor de levende waarachtigheid in en achter de zichtbare vormen.
 
 Essentieel in deze scholingsweg is het uitgangspunt dat ieder mens in wezen een kunstenaar is. Het is de vraag hoe ieder met deze kiem van het kunstenaarschap wil omgaan. In deze opleiding proberen we een voedingsbodem te scheppen zodat ieder op een geheel eigen manier het eigen kunstenaarschap kan ontwikkelen.
-Natuurlijk is er geen pasklaar concept hoe het kunstenaarschap eruit ziet. Dat is voor ieder mens die zich dit tot doel stelt volledig anders. Dat hangt af van de talenten en mogelijkheden die je meebrengt en in je leven al ontwikkeld hebt. Vandaar dat we in deze opleiding doorlopend de eigen unieke wilsweg van ieder als uitgangspunt nemen. In het introductiejaar van de opleiding staan we stil bij wat je (bewust en onbewust) al ontwikkeld hebt in de beeldhouwkunst en wat je daar vanuit verder wil vormgeven. De basis van een eigen verhouding tot de fundamenten van de Organische Beelhouwkunst wordt gelegd. In dit jaar wordt er een begin gemaakt met het onderzoeken van de zeven vormgevende “organen” waar vanuit de Organische beeldhouwer zijn beelden maakt. Zeven bronnen, zeven inspiraties om beelden te  maken. Door het bestuderen en ervaren van deze "zeven" kan je jezelf als beeldhouwer verruimen.
+Natuurlijk is er geen pasklaar concept hoe het kunstenaarschap eruit ziet. Dat is voor ieder mens die zich dit tot doel stelt volledig anders. Dat hangt af van de talenten en mogelijkheden die je meebrengt en in je leven al ontwikkeld hebt. Vandaar dat we in deze opleiding doorlopend de eigen unieke wilsweg van ieder als uitgangspunt nemen.
 
-Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst verdiepen in twee verdiepingsjaren. Naast het werken vanuit de zeven organen en bijpassen de materialen werk je aan een eigen project en/of opdracht met alles wat daarbij komt kijken centraal. Een project en/of opdracht waarin je jouzelf als beeldhouwer in de ruimste zin van het woord ontwikkelt.
+In het introductiejaar wordt er een begin gemaakt met het onderzoeken van de zeven vormgevende “organen” waar vanuit de Organische beeldhouwer zijn beelden maakt. Zeven bronnen, zeven inspiraties om beelden te maken.
 
-Voor uitgebreidere informatie over deze opleiding: [http://www.organischebeeldhouwkunst.nl](http://www.organischebeeldhouwkunst.nl)
+We beginnen in oktober met "Maan/reproductie" beelden. Denk daarbij aan bijvoorbeeld de beelden van Barbara Hepworth.
+Het gipsmallen maken en in gips snijden komt in deze sfeer aan bod.
+Rond de kerst reizen we verder naar de "Hart-sfeer".
+Een sfeer waarin polariteiten hun scheppend vernieuwende verhaal vinden. We gaan met goud werken.
+In januari komen de "long" beelden. Beelden die uit onderdelen zijn opgebouwd.
+In februari onderzoeken we de "lever" beelden. Beelden waarin een overvloed aan nieuw leven zich uit kan spreken.
+In maart reizen we verder naar de "gal" beelden. Beelden die kunnen bewegen.
+In april de "milt" beelden en tenslotte in mei de "nier" beelden.
 
-## Oriëntatie bijeenkomst
+
+Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst verdiepen in twee verdiepingsjaren. Het werk vanuit de zeven organen wordt verdiept en je leert in diverse materialen te werken, zoals brons, hout en ijzer.
+
+
+## kennismaking
 
 Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
 Voor een kennismakingsgesprek kun je contact met Feico opnemen: telf. 0630953313
 
-Voor aanmelding via mail klik [hier](contact.md)
+Voor aanmelding en vragen via mail klik [hier](contact.md)
 
 
 ## Kosten
 
-De kosten voor de opleiding zijn 2500,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten, koffie/thee. exclusief de kosten voor het bronsgieten en museum bezoek.)
-Als de kosten een bezwaar zijn dan kunnen we in een oriëntatie gesprek mogelijkheden bespreken (ondermeer prive en algemene fondsen) om deze opleiding voor jou mogelijk te maken.
+De kosten voor de introductie tot de opleiding zijn 2500,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten, koffie/thee. exclusief museum bezoek.)
+
 
 ## Tijd
 
-Het eerste jaar start in september 2021.
-Het introductiejaar bestaat uit 23 dag-bijeenkomsen. De verdiepingsjaren samen bestaan uit 46 dag-bijeenkomsten. Op vrijdagen met aansluitend de zaterdag werken we met elkaar. Daarbij komt in het voorjaar een zogenaamde "werkweek" van drie dagen.
-Voor een complete datalijst van het introductie jaar kun je contact opnemen met Feico.
+Het eerste jaar start in 10 september 2021.
+Het introductiejaar bestaat uit 20 dag-bijeenkomsen:
+10-11 september; 15-16 oktober; 12-13 november; 10-11 december; 14-15 januari; 11-12 februari; 11-12 maart; 8-9 april; 13-14 mei; 10-11 juni.
+
 Iedere dag begint om 9:00 uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
 
 ## Plaats
