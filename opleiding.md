@@ -44,8 +44,7 @@ De kosten voor de introductie tot de opleiding zijn 2250,- euro pp per jaar. (In
 
 ## Tijd
 
-Het eerste jaar start in 10 september 2021.
-Het introductiejaar bestaat uit 20 dag-bijeenkomsen:
+Het introductiejaar start in 10 september 2021 en bestaat uit 20 dag-bijeenkomsen:
 10-11 september; 15-16 oktober; 12-13 november; 10-11 december; 14-15 januari; 11-12 februari; 11-12 maart; 8-9 april; 13-14 mei; 10-11 juni.
 
 Iedere dag begint om 9:00 uur (welkom vanaf 8:45 uur) en eindigt uiterlijk om 16:00 uur.
