@@ -26,7 +26,7 @@ In maart reizen we verder naar de "gal" beelden. Beelden die kunnen bewegen.
 In april de "milt" beelden en tenslotte in mei de "nier" beelden.
 
 
-Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst verdiepen in twee verdiepingsjaren. Het beeldend werken vanuit de zeven organen wordt verruimd. Daarbij leer in diverse materialen te werken, zoals brons, hout en ijzer.
+Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst verdiepen in twee verdiepingsjaren. Het beeldend werken vanuit de zeven organen wordt verruimd. Daarbij leer je in diverse materialen te werken, zoals brons, houtsnijden en ijzer.
 
 
 ## kennismaking
