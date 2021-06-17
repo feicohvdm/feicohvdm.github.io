@@ -8,8 +8,8 @@ header:
 ---
 ## parttime beroepsopleiding organische beeldhouwkunst
 
-10 september 2021 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). We beginnen met een introductiejaarductie jaar. Waarin je handvaten aangeboden worden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen.
-In deze opleiding willen we een beeldhouwkunst aan bieden die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uiterlijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin het proces van vormontwikkeling in een beeld belangrijk is. Kortom een beeldhouwkunst die ons wakker maakt voor de levende waarachtigheid in en achter de zichtbare vormen.
+10 september 2021 start een nieuwe opleidingsgroep Organische beeldhouwkunst in de Aardewerkplaats (Brummen). We beginnen met een introductie jaar.  In dit jaar worden je handvaten aangeboden om de eigen talenten en mogelijkheden in deze levende kunstvorm te onderzoeken en verder te ontwikkelen.
+In deze opleiding willen we een beeldhouwkunst uitwerken die past in de huidige tijd. Een beeldhouwkunst waarin het geestelijke achter de uiterlijke vormen een plaats krijgt. Een beeldhouwkunst ook waarin het proces van vormontwikkeling in een beeld belangrijk is. Kortom een beeldhouwkunst die ons wakker maakt voor de levende waarachtigheid in en achter de zichtbare vormen.
 
 Essentieel in deze scholingsweg is het uitgangspunt dat ieder mens in wezen een kunstenaar is. Het is de vraag hoe ieder met deze kiem van het kunstenaarschap wil omgaan. In deze opleiding proberen we een voedingsbodem te scheppen zodat ieder op een geheel eigen manier het eigen kunstenaarschap kan ontwikkelen.
 Natuurlijk is er geen pasklaar concept hoe het kunstenaarschap eruit ziet. Dat is voor ieder mens die zich dit tot doel stelt volledig anders. Dat hangt af van de talenten en mogelijkheden die je meebrengt en in je leven al ontwikkeld hebt. Vandaar dat we in deze opleiding doorlopend de eigen unieke wilsweg van ieder als uitgangspunt nemen.
@@ -26,7 +26,7 @@ In maart reizen we verder naar de "gal" beelden. Beelden die kunnen bewegen.
 In april de "milt" beelden en tenslotte in mei de "nier" beelden.
 
 
-Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst verdiepen in twee verdiepingsjaren. Het werk vanuit de zeven organen wordt verdiept en je leert in diverse materialen te werken, zoals brons, hout en ijzer.
+Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst verdiepen in twee verdiepingsjaren. Het beeldend werken vanuit de zeven organen wordt verruimd. Daarbij leer in diverse materialen te werken, zoals brons, hout en ijzer.
 
 
 ## kennismaking
@@ -39,7 +39,7 @@ Voor aanmelding en vragen via mail klik [hier](contact.md)
 
 ## Kosten
 
-De kosten voor de introductie tot de opleiding zijn 2500,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten, koffie/thee. exclusief museum bezoek.)
+De kosten voor de introductie tot de opleiding zijn 2250,- euro pp per jaar. (Inclusief beeldend basismateriaal, lesmiddelen, begeleiding ook buiten de bijeenkomsten om. Exclusief kosten museum/galerie bezoek.)
 
 
 ## Tijd
