@@ -31,7 +31,7 @@ Na het introductie jaar kan je jouw relatie met de organische beeldhouwkunst ver
 
 ## kennismaking
 
-Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
+Als deze opleiding je aanspreekt en je overweegt om mee te doen dan kun je een geheel vrijblijvend kennismakingsgesprek aan vragen. Dit kan via de telefoon of op lokatie.  We bespreken dan jouw vragen, twijfels en bekijken of jouw wensen, mogelijkheden en verlangens aansluiten bij deze scholingsweg.
 Voor een kennismakingsgesprek kun je contact met Feico opnemen: telf. 0630953313
 
 Voor aanmelding en vragen via mail klik [hier](contact.md)
@@ -56,5 +56,8 @@ We kunnen gebruik maken van een ruim atelier/werkplaats  en een bronsgieterij:
 Aardewerkplaats Amiel.
 Windheuvelstraat 3
 6971 JV Brummen (nabij Zutphen).
+
+Door het jaar heen bezoeken we musea en galeries.
+
 
 Voor uitgebreidere informatie over deze opleiding: [http://www.organischebeeldhouwkunst.nl](http://www.organischebeeldhouwkunst.nl)
