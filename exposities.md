@@ -10,7 +10,7 @@ header:
 
 
 
-Van 26 juni tot 24 juli 2021
+Van 26 juni tot 17 juli 2021
 ## Hooglied expositie in Sijthoff te Leiden
 
 Na een zeer geslaagde Hooglied expositie in de zomer van 2019 in Elburg zetten Jackie Howart en ik de lijn door. We gaan onze Hooglied beelden en textiel wederom exposeren.
@@ -22,7 +22,9 @@ Cultuurcentrum Sijthoff,
 Doezastraat 1b,
 Leiden
 
-Openingstijden:  maandag t/m zaterdag 9:30 uur tot 16:00 uur   
+Openingstijden:  maandag t/m zaterdag 13:00 uur tot 16:00 uur   
+
+3 juli vertelt Feico over het tot stand komen van zijn Hooglied beelden. Eerste rondleiding is om 14:00 uur. Tweede rondleiding is om 15:00 uur.
 
 
 
