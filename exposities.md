@@ -22,7 +22,9 @@ Cultuurcentrum Sijthoff,
 Doezastraat 1b,
 Leiden
 
-Openingstijden:  maandag t/m zaterdag 13:00 uur tot 16:00 uur   
+Openingstijden:  maandag t/m zaterdag 13:00 uur tot 16:00 uur  
+
+De opening van deze expositie is op 26 juni om 15:30 uur. In verband met een beperkt aantal plaatsen graag aanmelden bij Sijthoff. Telf. 06 53831107 
 
 3 juli vertelt Feico over het tot stand komen van zijn Hooglied beelden. Eerste rondleiding is om 14:00 uur. Tweede rondleiding is om 15:00 uur.
 
