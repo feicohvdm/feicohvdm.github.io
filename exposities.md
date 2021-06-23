@@ -33,6 +33,7 @@ De opening van deze expositie is op 26 juni om 15:30 uur. In verband met een bep
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" %}
 
 
+
 2 en 3 oktober 2021
 ## Brabant Art Fair
 
@@ -44,7 +45,7 @@ De Grote of Onze-Lieve-Vrouwekerk
 Kerkplein 2
 4811 XT Breda
 
-Openingstijden:  beide dagen van 11:00 uur tot 17:30 uur  
+Openingstijden: 2 en 3 oktober van 11:00 uur tot 17:30 uur  
 
 
 
