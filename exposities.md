@@ -24,13 +24,27 @@ Leiden
 
 Openingstijden:  maandag t/m zaterdag 13:00 uur tot 16:00 uur  
 
-De opening van deze expositie is op 26 juni om 15:30 uur. In verband met een beperkt aantal plaatsen graag aanmelden bij Sijthoff. Telf. 06 53831107 
+De opening van deze expositie is op 26 juni om 15:30 uur. In verband met een beperkt aantal plaatsen graag aanmelden bij Sijthoff. Telf. 06 53831107
 
 3 juli vertelt Feico over het tot stand komen van zijn Hooglied beelden. Eerste rondleiding is om 14:00 uur. Tweede rondleiding is om 15:00 uur.
 
 
 
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/verbonden_orig.jpg" alt="Alt for image" %}
+
+
+2 en 3 oktober 2021
+## Brabant Art Fair
+
+In de prachtige Grote Kerk van Breda exposeert Feico enkele nieuwe beelden met als thema "de Nieuwe Mens".
+In deze kunstbeurs zult u naast de beeldhouwkunst diverse soorten kunst tegenkomen. Een bijzondere collectie van hedendaagse kunst.
+U bent van harte welkom!
+
+De Grote of Onze-Lieve-Vrouwekerk
+Kerkplein 2
+4811 XT Breda
+
+Openingstijden:  beide dagen van 11:00 uur tot 17:30 uur  
 
 
 
