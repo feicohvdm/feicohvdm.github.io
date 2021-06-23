@@ -13,7 +13,7 @@ header:
 Van 26 juni tot 17 juli 2021
 ## Hooglied expositie in Sijthoff te Leiden
 
-Na een zeer geslaagde Hooglied expositie in de zomer van 2019 in Elburg zetten Jackie Howart en ik de lijn door. We gaan onze Hooglied beelden en textiel wederom exposeren.
+Na een zeer geslaagde Hooglied expositie in de zomer van 2019 in Elburg zetten Jackie Howart en Feico de lijn door. We gaan onze Hooglied beelden en textiel wederom exposeren.
 Dit keer in cultuurcentrum Sijthoff in Leiden.
 Naast eerder getoond werk zal u ook nieuw werk tegenkomen.
 U bent van harte welkom!
