@@ -14,7 +14,7 @@ header:
 12 en 13 maart 2022
 ## Brabant Art Fair
 
-In de prachtige Grote Kerk van Breda exposeert Feico enkele nieuwe beelden met als thema "de Nieuwe Mens".
+In de prachtige Grote Kerk van Breda exposeert Feico beelden die hij vanuit een religieuze houding gevormd heeft. 
 In deze kunstbeurs zult u naast de beeldhouwkunst diverse soorten kunst tegenkomen. Een bijzondere collectie van hedendaagse kunst.
 U bent van harte welkom!
 
