@@ -23,4 +23,4 @@ NS-Plein
 5014 DA Tilburg
 
 
-Openingstijden: 12 en 13 maart van 11:00 uur tot 17:30 uur  
+Openingstijden: 18 en 19 maart van 11:00 uur tot 17:30 uur  
