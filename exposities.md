@@ -11,15 +11,16 @@ header:
 
 
 
-12 en 13 maart 2022
+18 en 19 maart 2023
 ## Brabant Art Fair
 
-In de prachtige Grote Kerk van Breda exposeert Feico beelden die hij vanuit een religieuze houding gevormd heeft. 
+In de ruime Koepelhal in Tilburg exposeert Feico beelden met als thema "het edele in de mens".
 In deze kunstbeurs zult u naast de beeldhouwkunst diverse soorten kunst tegenkomen. Een bijzondere collectie van hedendaagse kunst.
 U bent van harte welkom!
 
-De Grote of Onze-Lieve-Vrouwekerk
-Kerkplein 2
-4811 XT Breda
+Koepelhal
+NS-Plein
+5014 DA Tilburg
+
 
 Openingstijden: 12 en 13 maart van 11:00 uur tot 17:30 uur  
