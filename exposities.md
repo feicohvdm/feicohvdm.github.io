@@ -9,9 +9,26 @@ header:
 
 
 
+Van 1 augustus tot 9 september 2023 (uitgezonderd 19 augustus)
+
+## expositie in Sint Joriskerk in Amersfoort
+
+Jackie Howart en Feico exposeren beelden met als thema "Liefde en Verlangen"
+In deze expositie kunt u ook beeldendwerk tegenkomen dat vanuit Hooglied is gemaakt.
+Een bijzondere expositie waarin de taal van Liefde achter de vorm klinkt.
+
+ Openingstijden:
+ dinsdag t/m zaterdag van 11:00 uur tot 17:00 uur.
+
+ Adres:
+ Hof 1
+ Amersfoort
 
 
-18 en 19 maart 2023
+
+
+
+16 en 17 maart 2024
 ## Brabant Art Fair
 
 In de ruime Koepelhal in Tilburg exposeert Feico beelden met als thema "het edele in de mens".
