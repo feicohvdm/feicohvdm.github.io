@@ -10,7 +10,6 @@ header:
 
 
 Van 1 augustus tot 9 september 2023 (uitgezonderd 19 augustus)
-
 ## expositie in Sint Joriskerk in Amersfoort
 
 Jackie Howart en Feico exposeren beelden met als thema "Liefde en Verlangen"
@@ -26,6 +25,7 @@ Een bijzondere expositie waarin de taal van Liefde achter de vorm klinkt.
 
 
 
+--------------------------
 
 
 16 en 17 maart 2024
