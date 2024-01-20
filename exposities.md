@@ -31,7 +31,7 @@ Openingstijden: 18 en 19 maart van 11:00 uur tot 17:30 uur
 --------------------------
 
 
-16 en 17 maart 2024
+zaterdag 16 en zondag 17 maart 2024
 ## Brabant Art Fair
 
 In de ruime Koepelhal in Tilburg exposeert Feico beelden met als thema "het edele in de mens".
