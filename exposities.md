@@ -9,19 +9,22 @@ header:
 
 
 
-Van 1 augustus tot 9 september 2023 (uitgezonderd 19 augustus)
-## expositie in Sint Joriskerk in Amersfoort
+zaterdag 3 en zondag 4 februari 2024
+## Brabant Art Fair
 
-Jackie Howart en Feico exposeren beelden met als thema "Liefde en Verlangen"
-In deze expositie kunt u ook beeldendwerk tegenkomen dat vanuit Hooglied is gemaakt.
-Een bijzondere expositie waarin de taal van Liefde achter de vorm klinkt.
+In de Klokgebouw in Eindhoven exposeert Feico beelden met als thema "de mens en z'n medemens".
+In deze kunstbeurs zult u naast de beeldhouwkunst diverse soorten kunst tegenkomen. Een bijzondere collectie van hedendaagse kunst.
+U bent van harte welkom!
 
- Openingstijden:
- dinsdag t/m zaterdag van 11:00 uur tot 17:00 uur.
+Klokgebouw 50
+Strijp-S
+5617 AB Eindhoven
 
- Adres:
- Hof 1
- Amersfoort
+
+
+Openingstijden: 18 en 19 maart van 11:00 uur tot 17:30 uur
+
+
 
 
 
@@ -40,4 +43,24 @@ NS-Plein
 5014 DA Tilburg
 
 
-Openingstijden: 18 en 19 maart van 11:00 uur tot 17:30 uur  
+Openingstijden: 18 en 19 maart van 11:00 uur tot 17:30 uur
+
+
+--------------------------
+
+
+Van 26 mei tot 30 juni 2024
+## expositie in "Het Oude Raadhuis" in Warmond
+
+Jackie Howart en Feico exposeren beelden met als thema "Liefde en Verlangen"
+In deze expositie kunt u ook beeldendwerk tegenkomen dat vanuit Hooglied is gemaakt.
+Een bijzondere expositie waarin de taal van Liefde achter de vorm klinkt.
+
+ Openingstijden:
+ zaterdag van 11:00 uur tot 17:00 uur
+ zondag van 13:00 uur tot 17:00 uur
+ woensdag t/m vrijdag van 15:00 uur tot 17:00 uur.
+
+ Adres:
+ Dorpsstraat 36
+ 2361 BE Warmond
