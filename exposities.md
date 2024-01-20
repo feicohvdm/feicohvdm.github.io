@@ -10,7 +10,7 @@ header:
 
 
 zaterdag 3 en zondag 4 februari 2024
-## Brabant Art Fair
+## Art Eindhoven
 
 In de Klokgebouw in Eindhoven exposeert Feico beelden met als thema "de mens en z'n medemens".
 In deze kunstbeurs zult u naast de beeldhouwkunst diverse soorten kunst tegenkomen. Een bijzondere collectie van hedendaagse kunst.
@@ -50,7 +50,7 @@ Openingstijden: 18 en 19 maart van 11:00 uur tot 17:30 uur
 
 
 Van 26 mei tot 30 juni 2024
-## expositie in "Het Oude Raadhuis" in Warmond
+## Expositie in "Het Oude Raadhuis" in Warmond
 
 Jackie Howart en Feico exposeren beelden met als thema "Liefde en Verlangen"
 In deze expositie kunt u ook beeldendwerk tegenkomen dat vanuit Hooglied is gemaakt.
