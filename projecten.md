@@ -10,7 +10,7 @@ header:
 
 Naast het maken van beelden en het geven van lessen begeleid ik projecten.
 
-Persoonlijke projecten in de vorm van kunstgesprekken voor mensen die een nieuwe stap willen/moeten zetten in hun leven.
+Persoonlijke projecten in de vorm van kunst begeleidingsgesprekken voor mensen die een nieuwe stap willen/moeten zetten in hun leven.
 
 Bedrijfs projecten in de vorm van bijeenkomsten waarin via de kunst aan een vernieuwing van visie, missie en/of grondsteen wordt gewerkt.
 
