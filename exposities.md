@@ -8,8 +8,6 @@ header:
 ---
 
 
-
-
 22 en 23 maart 2025
 ## Kunstbeurs in Tilburg
 
