@@ -26,7 +26,7 @@ Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
 
 Voor aanmelding via mail klik [hier](contact.md)
 
-## bedrijfsprojecten
+## Bedrijfsprojecten
 
 Diverse projecten in instellingen en bedrijven heeft Feico door de jaren heen begeleid.
 Of het nu ging om de politie regio Eindhoven/Helmond, een therapeuticum in Apeldoorn of een woonwerkgemeenschap voor mensen met een verstandelijke beperking in Haarlem, via kunst werd naar verdieping gezocht.
