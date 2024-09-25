@@ -37,7 +37,7 @@ De vraag van Rozemarijn, een woonwerkgemeenschap voor mensen met een verstandeli
 7 bijeenkomsten hebben we hier met elkaar aangewerkt.
 
 
-{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/p1080305-kopie-2_orig.jpg" alt="Alt for image" caption="Opdracht voor zorggemeenschap Rozemarijn in Haarlem " %}
+{% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/p1080305-kopie-2_orig.jpg" alt="Alt for image" caption="Beeld vanuit zorggemeenschap Rozemarijn in Haarlem " %}
 
 
 Dit zijn twee voorbeelden van bedrijven waar een trajekt via de beeldende kunst goed gewerkt heeft.
