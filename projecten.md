@@ -35,7 +35,9 @@ De vraag van de politie Eindhoven/Helmond was om hun missie "Dienstbaar en Waakz
 
 De vraag van een woonwerkgemeenschap voor mensen met een verstandelijke beperking  Rozemarijn in Haarlem was om samen met begeleiders, bestuur en ouders een beeld te maken voor de gestorven bewoners. Zodat deze dierbaren via een tastbaar monument herdacht kunnen worden.
 
+
 {% include image.html img="https://25853585-541091259790646543.preview.editmysite.com/uploads/2/5/8/5/25853585/p1080305-kopie-2_orig.jpg" alt="Alt for image" caption="Opdracht voor zorggemeenschap Rozemarijn in Haarlem " %}
+
 
 Dit zijn twee voorbeelden van bedrijven waar een trajekt via de beeldende kunst goed gewerkt heeft.
 De vormende kunst opent deuren zodat er met elkaar een missie, een bedrijfsidentiteit of grondsteen zichtbaar gemaakt kan worden.
