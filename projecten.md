@@ -26,4 +26,15 @@ Als dit je aanspreekt kan je een kennismakingsgesprek aanvragen.
 
 Voor aanmelding via mail klik [hier](contact.md)
 
+## bedrijfsprojecten
+
+Diverse projecten in instellingen en bedrijven heeft Feico door de jaren heen begeleid.
+Of het nu ging om de politie regio Eindhoven/Helmond, een therapeuticum in Apeldoorn of een woonwerkgemeenschap voor mensen met een verstandelijke beperking  Rozemarijn in Haarlem, via kunst werd naar verdieping gezocht.
+
+De vraag van de politie Eindhoven/Helmond was om hun missie "Dienstbaar en Waakzaam" met hun complete corps in 12 bijeenkomsten via kunst beleefbaar en werkbaar te meken. Er zijn diverse beelden van hun missie gemaakt. Eén ervan is in brons gegoten en staat bij het politiebureau in Helmond.
+
+De vraag van een woonwerkgemeenschap voor mensen met een verstandelijke beperking  Rozemarijn in Haarlem was samen met begeleiders en ouders een beeld te maken voor de gestorven bewoners. Zodat deze dierbaren via een tastbaar monument herdacht kunnen worden.
+
+ 
+
 _________
