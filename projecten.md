@@ -29,7 +29,7 @@ Voor aanmelding via mail klik [hier](contact.md)
 ## Bedrijfsprojecten
 
 Diverse projecten in instellingen en bedrijven heeft Feico door de jaren heen begeleid.
-Of het nu ging om de politie regio Eindhoven/Helmond, een therapeuticum in Arnhem of een zorggemeenschap voor mensen met een verstandelijke beperking in Haarlem, via kunst werd naar verdieping gezocht.
+Of het nu ging om de politie regio Eindhoven/Helmond, een therapeuticum in Apeldoorn en Arnhem of een zorggemeenschap voor mensen met een verstandelijke beperking in Haarlem, via kunst werd naar verdieping gezocht.
 
 De vraag van de politie Eindhoven/Helmond was om hun missie - "Dienstbaar en Waakzaam" met hun complete corps via kunst beleefbaar te maken. Daar hebben we twaalf bijeenkomsten aan mogen werken. Zo hebben we ondermeer zogenaamde "missie beelden" in diverse substanties gemaakt. Het in een kleine groep maken van een beeld en het bekijken van beelden van anderen heeft bewustwording van de missie opgeleverd. Met het hele corps is uiteindelijk één beeld als meeste sprekende "missie beeld" gekozen. Dit beeld heeft Feico samen met enkele agenten in brons gegoten en staat nu bij het politiebureau in Helmond.
 
