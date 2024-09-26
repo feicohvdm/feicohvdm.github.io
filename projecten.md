@@ -42,7 +42,7 @@ De vraag van Rozemarijn, een zorggemeenschap voor mensen met een verstandelijke 
 
 Dit zijn twee voorbeelden van bedrijven waar een trajekt via de beeldende kunst goed gewerkt heeft.
 De vormende kunst opent deuren waardoor met elkaar een visie, een bedrijfsidentiteit of zelfs een grondsteen zichtbaar gemaakt kan worden.
-Zo'n onderzoeksreis kan van grote waarde zijn voor een bedrijf in ontwikkeling.
+Zo'n kunsttraject kan van grote waarde zijn voor een bedrijf in ontwikkeling.
 
 Indien u vragen heeft over een mogelijk traject voor uw bedrijf of initiatief, dan is een kennismakingsgesprek waarin we ideëen uitwisselen de goede eerste stap.
 
