@@ -8,21 +8,6 @@ header:
 ---
 
 
-22 en 23 maart 2025
-## Kunstbeurs in Tilburg
-
-In de Brabant Art Fair exposeert Feico weer nieuwe beelden. Dit keer met als thema "De wordende mens". U bent van harte welkom!
-
- Openingstijden:
- zaterdag en zondag van 11:00 uur tot 17:00 uur
-
-
- Adres:
- De Koepelhallen
- NS-Plein
- Tilburg
-
- ------------------
 
 
 8 juni tot 29 juni 2025
