@@ -9,13 +9,28 @@ header:
 
 
 
+19 en 20 September 2026
+## Kunstbeurs in Maastricht
 
 
- 21 en 22 maart 2026
+In de Europart Fait exposeert Feico weer nieuwe beelden. Dit keer met als thema "De wordende mens". U bent van harte welkom!
+
+ Openingstijden:
+ zaterdag van 12:00 uur tot 18:00 uur
+ zondag van 11:00 tot 17:00 uur
+
+
+ Adres:
+ MECC hallen
+ Maarstricht
+
+
+
+ 20 en 21 maart 2026
 ## Kunstbeurs in Tilburg
 
 
- In de Brabant Art Fair exposeert Feico weer nieuwe beelden. Dit keer met als thema "De wordende mens". U bent van harte welkom!
+ In de Brabant Art Fair exposeert Feico nieuwe beelden. Dit keer met als thema "mens in ontmoeting". U bent van harte welkom!
 
   Openingstijden:
   zaterdag en zondag van 11:00 uur tot 17:00 uur
